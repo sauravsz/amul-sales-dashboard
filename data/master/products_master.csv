@@ -1,0 +1,9 @@
+product_name,product_group,product_subgroup,unit_price,focus_product,storage_type,priority_level
+More Tin Paneer,Dairy,Paneer,45,Yes,Chilled,High
+Amul Aata,Staples,Flour,38,Yes,Ambient,Medium
+Amul Cookies,Snacks,Cookies,20,Yes,Ambient,High
+Amul Chocolates,Confectionery,Chocolate,15,Yes,Ambient,High
+Organic Kabuli Chana,Organics,Pulses,120,Yes,Ambient,Medium
+Organic Toor Dal,Organics,Pulses,95,Yes,Ambient,Medium
+Organic Masoor Dal,Organics,Pulses,85,Yes,Ambient,Medium
+Organic Rajma,Organics,Pulses,110,Yes,Ambient,Medium
