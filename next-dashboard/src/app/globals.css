@@ -1,0 +1,37 @@
+@import url('https://cdn.jsdelivr.net/npm/airbnbcereal@1.1.0/stylesheet.min.css');
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #222222;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  
+  /* Airbnb Design Tokens */
+  --color-primary: #ff385c;
+  --color-ink: #222222;
+  --color-canvas: #ffffff;
+  --color-hairline: #dddddd;
+  --color-surface: #f7f7f7;
+  --color-muted: #6a6a6a;
+  
+  --font-sans: 'Airbnb Cereal App', 'Airbnb Cereal VF', 'Circular', -apple-system, sans-serif;
+  
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-pill: 9999px;
+  
+  --shadow-airbnb: rgba(0, 0, 0, 0.02) 0 0 0 1px, rgba(0, 0, 0, 0.04) 0 2px 6px 0;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

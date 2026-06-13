@@ -80,44 +80,66 @@ st.set_page_config(
 # ───────────────────────────────────────────────
 st.markdown("""
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
-    html, body, [class*="css"], .stMarkdown, .stText {
-        font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
+    @import url('https://cdn.jsdelivr.net/npm/airbnbcereal@1.1.0/stylesheet.min.css');
+    
+    html, body, [class*="css"], .stApp, .stMarkdown, .stText {
+        font-family: 'Airbnb Cereal App', 'Airbnb Cereal VF', 'Circular', -apple-system, system-ui, Roboto, sans-serif !important;
+        background-color: #ffffff;
     }
-    .dashboard-header {
-        background: linear-gradient(135deg, #1e293b 0%, #312e81 50%, #1e293b 100%);
-        border: 1px solid #334155;
-        border-radius: 16px;
-        padding: 28px 32px;
-        margin-bottom: 24px;
+    header[data-testid="stHeader"] { display: none; }
+    
+    [data-testid="stSidebar"] { 
+        background: #ffffff !important; 
+        border-right: 1px solid #dddddd;
     }
-    .dashboard-header h1 {
-        font-size: 1.75rem; font-weight: 800;
-        background: linear-gradient(135deg, #e2e8f0, #a5b4fc);
-        -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-        margin-bottom: 4px;
-    }
-    .dashboard-header p { color: #94a3b8; font-size: 0.9rem; margin: 0; }
+    [data-testid="stSidebar"] * { color: #222222 !important; }
+    
     .section-header {
-        font-size: 1.1rem; font-weight: 700; color: #e2e8f0;
-        padding: 12px 0 8px 0; border-bottom: 1px solid #334155; margin-bottom: 16px;
+        font-size: 22px; font-weight: 600; color: #222222; letter-spacing: -0.44px;
+        padding: 32px 0 16px 0; border-bottom: 1px solid #ebebeb; margin-bottom: 24px;
     }
-    [data-testid="stSidebar"] { background: linear-gradient(180deg, #0f172a 0%, #1e1b4b 100%); }
+    
     [data-testid="stMetric"] {
-        background: linear-gradient(135deg, #1e293b, rgba(99,102,241,0.08));
-        border: 1px solid #334155; border-radius: 12px; padding: 16px;
+        background: #ffffff; border: 1px solid #dddddd; border-radius: 14px; padding: 24px;
+        box-shadow: rgba(0, 0, 0, 0.02) 0 0 0 1px, rgba(0, 0, 0, 0.04) 0 2px 6px 0;
     }
-    [data-testid="stMetricLabel"] { font-size: 0.8rem !important; text-transform: uppercase; letter-spacing: 0.05em; color: #94a3b8 !important; }
-    [data-testid="stMetricValue"] { font-size: 1.5rem !important; font-weight: 700 !important; color: #a5b4fc !important; }
-    .stTabs [data-baseweb="tab-list"] { gap: 8px; }
-    .stTabs [data-baseweb="tab"] { border-radius: 8px; padding: 8px 20px; font-weight: 600; }
-    hr { border: none; border-top: 1px solid #334155; margin: 20px 0; }
+    [data-testid="stMetricLabel"] { font-size: 14px !important; color: #6a6a6a !important; text-transform: none; }
+    [data-testid="stMetricValue"] { font-size: 28px !important; font-weight: 700 !important; color: #222222 !important; }
+    
+    .stTabs [data-baseweb="tab-list"] { gap: 16px; border-bottom: 1px solid #ebebeb; }
+    .stTabs [data-baseweb="tab"] { border-radius: 0; padding: 12px 0; font-weight: 600; color: #6a6a6a; margin-right: 24px; }
+    .stTabs [aria-selected="true"] { color: #222222 !important; border-bottom: 2px solid #222222 !important; }
+    
+    hr { border: none; border-top: 1px solid #ebebeb; margin: 32px 0; }
     footer {visibility: hidden;} #MainMenu {visibility: hidden;}
-    .stDownloadButton > button {
-        background: linear-gradient(135deg, #4f46e5, #6366f1) !important;
-        color: white !important; border: none !important; border-radius: 8px !important; font-weight: 600 !important;
+    
+    .stDownloadButton > button, .stButton > button {
+        background: #ff385c !important; color: white !important; border: none !important; border-radius: 8px !important; 
+        font-weight: 500 !important; font-size: 16px !important; padding: 14px 24px !important; height: 48px;
     }
-    .nav-section { color: #475569; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; margin: 12px 0 4px 0; }
+    .stButton > button:hover { background: #e00b41 !important; }
+    
+    .nav-section { color: #6a6a6a; font-size: 12px; font-weight: 700; text-transform: uppercase; margin: 24px 0 8px 0; }
+    
+    /* Airbnb Input Fields & Multi-Selects */
+    div[data-baseweb="select"] > div, div[data-baseweb="input"] > div {
+        border-radius: 8px !important;
+        border: 1px solid #dddddd !important;
+        background-color: #ffffff !important;
+    }
+    
+    /* Style the selected tags to look like clean Airbnb pills */
+    span[data-baseweb="tag"] {
+        background-color: #f7f7f7 !important;
+        color: #222222 !important;
+        border-radius: 9999px !important;
+        border: 1px solid #dddddd !important;
+        padding: 4px 10px !important;
+        font-weight: 500 !important;
+    }
+    
+    /* Make the labels look editorial */
+    div[data-testid="stHorizontalBlock"] label { color: #222222 !important; font-size: 14px !important; font-weight: 600; }
 </style>
 """, unsafe_allow_html=True)
 
@@ -147,15 +169,14 @@ if df.empty:
 # ───────────────────────────────────────────────
 with st.sidebar:
     st.markdown("""
-    <div style="text-align:center; padding:16px 0;">
-        <div style="font-size:2rem;">🥛</div>
-        <div style="font-size:1.1rem; font-weight:800; color:#a5b4fc; margin-top:4px;">Amul Sales Intel</div>
-        <div style="font-size:0.65rem; color:#64748b; margin-top:2px;">v2.0 — Field Sales Intelligence</div>
+    <div style="padding: 16px 0;">
+        <div style="color:#ff385c; font-size:32px; font-weight:800; letter-spacing:-1px;">amul</div>
+        <div style="font-size:14px; color:#222222; font-weight:600; margin-top:4px;">Field Sales</div>
     </div>
     """, unsafe_allow_html=True)
 
     st.divider()
-    st.markdown('<p class="nav-section">📊 Analytics</p>', unsafe_allow_html=True)
+    st.markdown('<p class="nav-section">Dashboard</p>', unsafe_allow_html=True)
     page = st.radio(
         "Dashboard",
         [
@@ -175,49 +196,63 @@ with st.sidebar:
         label_visibility="collapsed",
     )
 
-    if not df.empty:
-        st.divider()
-        st.markdown('<p class="nav-section">🔍 Filters</p>', unsafe_allow_html=True)
+    st.divider()
+    st.markdown('<p style="color:#6a6a6a; font-size:13px; text-align:center;">© 2026 Amul Field Internship</p>', unsafe_allow_html=True)
 
+# ───────────────────────────────────────────────
+# Main Top Filter Bar (Airbnb Search Pill Style)
+# ───────────────────────────────────────────────
+
+st.markdown(f"""
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 32px;">
+        <h1 style="font-size: 28px; font-weight: 700; color: #222222; margin:0;">Inspiration for future sales</h1>
+        <div style="background:#ffffff; border:1px solid #dddddd; padding:8px 16px; border-radius:9999px; display:flex; align-items:center; gap:12px; box-shadow: rgba(0, 0, 0, 0.02) 0 0 0 1px, rgba(0, 0, 0, 0.04) 0 2px 6px 0;">
+            <div style="font-weight:600; color:#222222; font-size:14px;">Saurav Sinha</div>
+            <div style="background:#ff385c; color:white; width:32px; height:32px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-weight:bold; font-size:12px;">SS</div>
+        </div>
+    </div>
+""", unsafe_allow_html=True)
+
+if not df.empty and page not in ("📝 Data Entry", "📄 Export Report"):
+    f1, f2, f3, f4, f5 = st.columns(5)
+    
+    with f1:
         if "date" in df.columns and pd.api.types.is_datetime64_any_dtype(df["date"]):
             min_d, max_d = df["date"].min().date(), df["date"].max().date()
-            date_range = st.date_input("Date Range", value=(min_d, max_d), min_value=min_d, max_value=max_d)
+            date_range = st.date_input("When", value=(min_d, max_d), min_value=min_d, max_value=max_d)
         else:
             date_range = None
-
+            
+    with f2:
         all_products = sorted(df["product_name"].unique().tolist())
-        selected_products = st.multiselect("Products", all_products, default=[])
+        selected_products = st.multiselect("What", all_products, default=[], placeholder="Add products")
+        
+    with f3:
         all_groups = sorted(df["product_group"].unique().tolist())
-        selected_groups = st.multiselect("Product Groups", all_groups, default=[])
+        selected_groups = st.multiselect("Category", all_groups, default=[], placeholder="Add category")
+        
+    with f4:
         all_otypes = sorted(df["outlet_type"].unique().tolist())
-        selected_otypes = st.multiselect("Outlet Types", all_otypes, default=[])
-
+        selected_otypes = st.multiselect("Where", all_otypes, default=[], placeholder="Add outlet type")
+        
+    with f5:
         if "beat_name" in df.columns:
             all_beats = sorted(df["beat_name"].unique().tolist())
-            selected_beats = st.multiselect("Beats", all_beats, default=[])
+            selected_beats = st.multiselect("Route", all_beats, default=[], placeholder="Add route")
         else:
             selected_beats = []
+            
+    st.markdown("<br><br>", unsafe_allow_html=True)
+else:
+    date_range = None
+    selected_products = []
+    selected_groups = []
+    selected_otypes = []
+    selected_beats = []
 
-        st.divider()
-        if st.button("🔄 Reset Filters", use_container_width=True):
-            st.rerun()
-
-        st.download_button("📥 Download Data", data=df.to_csv(index=False).encode("utf-8"),
-                           file_name="amul_field_sales_data.csv", mime="text/csv", use_container_width=True)
-    else:
-        date_range = None
-        selected_products = []
-        selected_groups = []
-        selected_otypes = []
-        selected_beats = []
-
-    st.divider()
-    st.markdown('<p style="color:#475569; font-size:0.6rem; text-align:center;">Built for Amul Field Internship • v2.0</p>', unsafe_allow_html=True)
-
-# ───────────────────────────────────────────────
 # Apply Filters
-# ───────────────────────────────────────────────
 filtered = df.copy()
+
 if not df.empty:
     if date_range and len(date_range) == 2:
         s, e = pd.Timestamp(date_range[0]), pd.Timestamp(date_range[1])
@@ -231,15 +266,7 @@ if not df.empty:
     if selected_beats:
         filtered = filtered[filtered["beat_name"].isin(selected_beats)]
 
-# Allow data entry / export pages even with empty data
-if filtered.empty and page not in ("📝 Data Entry", "📄 Export Report"):
-    if not df.empty:
-        st.warning("No data matches your filter selection. Adjust filters or use 📝 Data Entry to add data.")
-    st.stop()
-
-# ───────────────────────────────────────────────
-# Pre-compute metrics (only if data exists)
-# ───────────────────────────────────────────────
+# Recompute metrics for filtered data
 if not filtered.empty:
     cov = coverage_kpis(filtered)
     conv = conversion_kpis(filtered)
@@ -258,17 +285,19 @@ else:
     otype_stats = pd.DataFrame()
     objection_dist = pd.DataFrame()
 
+# Allow data entry / export pages even with empty data
+if filtered.empty and page not in ("📝 Data Entry", "📄 Export Report"):
+    if not df.empty:
+        st.warning("No data matches your filter selection. Adjust filters or use 📝 Data Entry to add data.")
+    st.stop()
 
 # ═══════════════════════════════════════════════
-# PAGE 1: EXECUTIVE OVERVIEW (+ Alerts)
+# PAGE 1: EXECUTIVE OVERVIEW
 # ═══════════════════════════════════════════════
 if page == "🏠 Executive Overview":
-    st.markdown("""<div class="dashboard-header">
-        <h1>🏠 Executive Overview</h1>
-        <p>Field sales performance at a glance — with smart alerts and key metrics</p>
-    </div>""", unsafe_allow_html=True)
+    st.markdown("""<div class="section-header">Executive Overview</div>""", unsafe_allow_html=True)
 
-    # --- Smart Alerts (Improvement #9) ---
+    # --- Smart Alerts ---
     alerts = generate_alerts(filtered)
     if alerts:
         with st.expander("🔔 **Smart Alerts & Insights**", expanded=True):

@@ -9,30 +9,37 @@ import pandas as pd
 
 # --- Color Palette ---
 COLORS = {
-    "green": "#10B981",
-    "green_light": "#34D399",
-    "red": "#EF4444",
-    "red_light": "#F87171",
-    "orange": "#F59E0B",
-    "orange_light": "#FBBF24",
-    "blue": "#3B82F6",
-    "blue_light": "#60A5FA",
-    "purple": "#8B5CF6",
-    "purple_light": "#A78BFA",
-    "indigo": "#6366F1",
-    "cyan": "#06B6D4",
-    "pink": "#EC4899",
-    "slate": "#94A3B8",
-    "bg": "#0f172a",
-    "card_bg": "#1e293b",
-    "text": "#e2e8f0",
-    "text_muted": "#94a3b8",
-    "grid": "#334155",
+    # Airbnb Brand Tokens
+    "primary": "#ff385c", # Rausch
+    "primary_active": "#e00b41",
+    "ink": "#222222",
+    "body": "#3f3f3f",
+    "muted": "#6a6a6a",
+    "hairline": "#dddddd",
+    "hairline_soft": "#ebebeb",
+    "canvas": "#ffffff",
+    "surface": "#f7f7f7",
+    
+    # Legacy fallbacks mapped to new system
+    "green": "#10B981", # Kept for positive deltas
+    "red": "#c13515",   # Airbnb Error Red
+    "orange": "#ffb200",
+    "blue": "#428bff",  # Airbnb Legal Blue
+    "purple": "#ff385c",# Map to primary
+    "indigo": "#ff385c",# Map to primary
+    "slate": "#6a6a6a",
+    
+    # Layout mappings
+    "bg": "#ffffff",
+    "card_bg": "#ffffff",
+    "text": "#222222",
+    "text_muted": "#6a6a6a",
+    "grid": "#ebebeb",
 }
 
 PRODUCT_COLORS = [
-    "#6366F1", "#10B981", "#F59E0B", "#EF4444",
-    "#8B5CF6", "#06B6D4", "#EC4899", "#3B82F6",
+    "#ff385c", "#222222", "#428bff", "#10B981",
+    "#ffb200", "#c13515", "#6a6a6a", "#e00b41",
 ]
 
 # --- Common layout ---
@@ -42,68 +49,56 @@ def _base_layout(title="", height=400, margin=None):
         margin = dict(l=20, r=20, t=50, b=20)
     
     return dict(
-        title=dict(text=title, font=dict(size=16, color=COLORS["text"]), x=0),
+        title=dict(text=title, font=dict(size=16, color=COLORS["ink"], family="'Airbnb Cereal App', 'Airbnb Cereal VF', 'Circular', -apple-system, sans-serif", weight="bold"), x=0),
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(0,0,0,0)",
-        font=dict(color=COLORS["text"], family="Inter, system-ui, sans-serif", size=12),
+        font=dict(color=COLORS["muted"], family="'Airbnb Cereal App', 'Airbnb Cereal VF', 'Circular', -apple-system, sans-serif", size=14),
         height=height,
         margin=margin,
         xaxis=dict(
             gridcolor=COLORS["grid"],
-            gridwidth=0.5,
+            gridwidth=1,
             zerolinecolor=COLORS["grid"],
             showline=False,
         ),
         yaxis=dict(
             gridcolor=COLORS["grid"],
-            gridwidth=0.5,
+            gridwidth=1,
             zerolinecolor=COLORS["grid"],
             showline=False,
         ),
         legend=dict(
             bgcolor="rgba(0,0,0,0)",
-            font=dict(color=COLORS["text_muted"]),
+            font=dict(color=COLORS["muted"]),
         ),
         hoverlabel=dict(
             bgcolor=COLORS["card_bg"],
-            font=dict(color=COLORS["text"]),
-            bordercolor=COLORS["grid"],
+            font=dict(color=COLORS["ink"]),
+            bordercolor=COLORS["hairline"],
         ),
     )
 
 
 # --- KPI Card (returns HTML) ---
 def kpi_card_html(label, value, subtitle="", delta=None, color=None):
-    """Generate HTML for a styled KPI card."""
+    """Generate HTML for a styled KPI card matching Airbnb aesthetics."""
     if color is None:
-        color = COLORS["indigo"]
+        color = COLORS["primary"]
     
     delta_html = ""
     if delta is not None:
         delta_color = COLORS["green"] if delta >= 0 else COLORS["red"]
         delta_icon = "↑" if delta >= 0 else "↓"
-        delta_html = f'<span style="color:{delta_color}; font-size:0.85rem; font-weight:500;">{delta_icon} {abs(delta):.1f}%</span>'
+        delta_html = f'<span style="color:{delta_color}; font-size:14px; font-weight:600; margin-left:6px;">{delta_icon} {abs(delta):.1f}%</span>'
     
-    return f"""
-    <div style="
-        background: linear-gradient(135deg, {COLORS['card_bg']} 0%, rgba(99,102,241,0.08) 100%);
-        border: 1px solid {COLORS['grid']};
-        border-radius: 12px;
-        padding: 20px 16px;
-        text-align: center;
-        min-height: 100px;
-    ">
-        <div style="color:{COLORS['text_muted']}; font-size:0.8rem; font-weight:500; text-transform:uppercase; letter-spacing:0.05em; margin-bottom:8px;">
-            {label}
-        </div>
-        <div style="color:{color}; font-size:1.8rem; font-weight:700; line-height:1.2; margin-bottom:4px;">
-            {value}
-        </div>
-        <div style="color:{COLORS['text_muted']}; font-size:0.75rem;">
-            {subtitle} {delta_html}
-        </div>
-    </div>
-    """
+    return f"""<div style="background: {COLORS['canvas']}; border: 1px solid {COLORS['hairline']}; border-radius: 14px; padding: 24px; box-shadow: rgba(0, 0, 0, 0.02) 0 0 0 1px, rgba(0, 0, 0, 0.04) 0 2px 6px 0; display: flex; flex-direction: column; justify-content: center; min-height: 120px; width: 100%;">
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px;">
+<div style="color:{COLORS['ink']}; font-size:16px; font-weight:600; font-family: 'Airbnb Cereal App', 'Airbnb Cereal VF', 'Circular', -apple-system, sans-serif;">{label}</div>
+<div style="color: {color}; width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: {COLORS['surface']};"><div style="background-color: {color}; width: 8px; height: 8px; border-radius: 50%;"></div></div>
+</div>
+<div style="color:{COLORS['ink']}; font-size:28px; font-weight:700; line-height:1.2; font-family: 'Airbnb Cereal App', 'Airbnb Cereal VF', 'Circular', -apple-system, sans-serif; margin-bottom:4px;">{value}</div>
+<div style="color:{COLORS['muted']}; font-size:14px; font-weight:400; font-family: 'Airbnb Cereal App', 'Airbnb Cereal VF', 'Circular', -apple-system, sans-serif;">{subtitle} {delta_html}</div>
+</div>"""
 
 
 # --- Line Charts ---
