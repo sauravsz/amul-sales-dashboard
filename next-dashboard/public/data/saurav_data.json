@@ -1,10 +1,12 @@
 {
   "intern": "Saurav Sinha",
-  "market": "Silchar, Assam",
+  "market": "Silchar Urban, Assam",
+  "branch": "Silchar Branch (GCMMF)",
+  "in_charge": "Mr. Bishal De (Officer in Charge)",
   "total_days": 34,
-  "total_visits": 615,
-  "total_converted": 370,
-  "overall_strike_rate": 60.2,
+  "total_visits": 612,
+  "total_converted": 302,
+  "overall_strike_rate": 49.3,
   "daily_reports": [
     {
       "day_no": 1,
@@ -72,8 +74,8 @@
       "visited": 22,
       "converted": 15,
       "conversion_rate": 68.2,
-      "total_value": 26235.6,
-      "total_pieces": 465,
+      "total_value": 35396.8,
+      "total_pieces": 630,
       "observations": "(01 June 2026)\n\nDistributor Name - Shaan Enterprise\nBeat Name - Ghungoor\nIntern Name - Saurav Sinha\nSalesman Name - Biswajit Bormon\nNo. of outlets visited - 22\nNo. of outlets from where order received - 15\nNo. of outlets from where order received for focused products - 9\n\n1.Gupta Store\nAata 12 pcs \nValue = ₹600\n\n2.HP Traders \nDark Chocolate Small 20 pcs\nRusk 6 pcs \nPaneer 6 tins\nValue = ₹1520\n\n3.Kalyani Enterprise\nAata 12 pcs\nPaneer 3 tins\nTotal = ₹1005\n\n4.Maa Durga Store\nAata 24 pcs\nPaneer 12 tins\nValue = ₹2820\n\n5.Rajesh Store\nPaneer 3 tins\nAata 12 pcs\nValue = ₹1005\n\n6.Das Store\nDark chocolate 20 pcs\nFruit and nut small 20 pcs\nVelvet 20 pcs\nSugar free dark 20 pcs\nAata 12 pcs\nValue = ₹3900\n\n7.Basanti Mini Mart\nrusk 6pcs\nbutter toast 6 pcs\nchoco mini 6 pcs \nbitter big 3 pcs\nfruit and nut small 40 pcs\nsugar free 1 pc\npaneer 6 tins\naata 72 pcs \nValue = ₹7320\n\n8.Dev Store\nPaneer 1 carton\nValue = ₹3240\n\n9.Manda Stores\nAata 72 pcs\nTotal = ₹3600\n\nAata = Amul Regular Aata 1kg\nPaneer = Tin Paneer 425g\n\n1. Bindaaz was in demand in 3 outlets, but it was out of stock.  \n2. Purabi honey has entered the market. For 125 g its MRP is ₹100, much more expensive than Amul or Dabur Honey.  \n3. UHT milk is moving very slowly in this beat due to Purabi pouch milk, which gets sold within a day.\n4. Organic products were pitched across nearly all outlets, even after highlighting the organic and pesticide-free positioning, price sensitivity remained the primary barrier to adoption.\n5. The WSDM really helped me push the products.\n\n, Tin Paneer 425g orders came from 6 outlets.\n\nRegarding Purabi Honey – I noted the MRP but did not click a picture and was not aware of the WD price and PTR. Will make sure to capture this data and a photo on the next visit.\n\nFor the Amul Organic pitch – understood, Sir. Will check the WD/PTR of Amul Organic products beforehand and pitch with a proper margin and MRP comparison against competitors.\n\n---"
     },
     {
@@ -86,8 +88,8 @@
       "visited": 26,
       "converted": 13,
       "conversion_rate": 50.0,
-      "total_value": 21409.92,
-      "total_pieces": 262,
+      "total_value": 24602.92,
+      "total_pieces": 314,
       "observations": "1. Sales are down in this beat due to competition from Instamart and JioMart. WSDM also confirmed the same, saying that this beat's market has weakened since Instamart launched in Silchar.\n2. Even though organic products' margins are high, the printed price is too high for customers to buy them — when asked why they don't keep organic products of Amul at Daily Basket.\n3. 15g dark chocolates, Tru mango, and nankhatai were in demand but were out of stock.\n\n---"
     },
     {
@@ -100,8 +102,8 @@
       "visited": 10,
       "converted": 5,
       "conversion_rate": 50.0,
-      "total_value": 55050.25,
-      "total_pieces": 469,
+      "total_value": 10333.5,
+      "total_pieces": 151,
       "observations": "1. Gulab Jamun, Kaju Katli 200g, and Masti Small were found to be out of stock across the beat.\n2. Sai Amul Parlour had placed an order for Rasmalai in May, however the stock received had an expiry only up to June. The store owner flagged this concern directly to Bishal Sir.\n3. A retailer received two Kaju Katli boxes with broken bottoms. On the distributor's advice, the retailer taped the damaged portion and sold them. However, a customer later returned the product upon noticing the tape and damage, creating an uncomfortable situation for the retailer.\n4. Across several stores in the beat, sweet products were observed to be nearing expiry within the next 2 months, which poses a risk of returns and unsold stock.\n5. Asha Store returned 10 pcs of Twilight Tryst 125g, which had already expired in February, indicating a gap in expiry monitoring at the outlet level.\n6. Compared to the previous two beats, Ghungoor and Second Link Road, Amul Organic product presence was noticeably higher in this beat. However, due to slow movement of these products, retailers were not keen on placing fresh orders.\n7. Paneer 425g Tin was present in most stores across the beat. Out of the two stores where it was absent, one retailer had opted to stock it and the other wen with the 1kg SKU instead.\n\n---"
     },
     {
@@ -114,8 +116,8 @@
       "visited": 30,
       "converted": 9,
       "conversion_rate": 30.0,
-      "total_value": 3688.24,
-      "total_pieces": 155,
+      "total_value": 4342.56,
+      "total_pieces": 336,
       "observations": "1. At Sumona Store, Butter Cake was pitched to the retailer who initially asked for samples before agreeing to keep 3 pcs.\n2. Paneer 425g Tin was present in most stores across the beat and was actively pitched at outlets where availability was insufficient.\n3. Retailers were reluctant to purchase additional items citing the upcoming summer vacation season, and specifically requested longer shelf life products when sweets were being pitched.\n4. ₹35 Butter was in demand across 9 outlets, Badam Can was demanded at 2 outlets but was out of stock, and Kool Kesar received interest from 1 outlet but was similarly unavailable.\n5. Butter Cookies were found to be out of stock at the distributor level, making it unavailable for supply to retailers in the beat.\n\n---"
     },
     {
@@ -128,8 +130,8 @@
       "visited": 24,
       "converted": 12,
       "conversion_rate": 50.0,
-      "total_value": 9539.4,
-      "total_pieces": 540,
+      "total_value": 8658.72,
+      "total_pieces": 432,
       "observations": "1. In Maa Durga Store last week's paneer orders were visible in the shelves\n2. Bindazz, Amul Tru Mango and almost all of the canned beverages’ stock weren’t available at the distributor’s.\n3. There were several complaints about damaged or empty products. Lakhi Bhandar received several pieces of dark chocolate that were empty, Das Stores received 2 pieces less, and an empty piece of Velvett, along with a stale case of Kool. The salesman was very friendly with the retailers, and they resolved the issue amicably.\n4. The beat has Amul Lassi moving very slowly because of Purabi Lassi. I spoke with several retailers who said customer preference is for Purabi Lassi; one reason is that it feels lighter, and most shops are stocking Amul Lassi in very small numbers.\n5. Found Purabi flavoured milk (MRP ₹25) at SN Kamalpuri. The owner wasn’t present, and the store employee didn’t know about the PTR. I tried it, and it might be a matter of personal preference, but it is nowhere close to the taste of the Amul Kool variants I’ve had. It felt light and too sweet for my WSDM's and my liking.\n6. UHT milk of Purabi was also present, with MRP ₹17.50 for 200 ml and ₹74 for 1 L in the same shop.\n\n---"
     },
     {
@@ -142,8 +144,8 @@
       "visited": 19,
       "converted": 8,
       "conversion_rate": 42.1,
-      "total_value": 4002.0,
-      "total_pieces": 270,
+      "total_value": 18633.6,
+      "total_pieces": 288,
       "observations": "(09 June 2026)\n\nDistributor Name - Shaan Enterprise\nBeat Name - 2nd Link Road\nIntern Name - Saurav Sinha\nSalesman Name - Biswajit Bormon\nNo. of outlets visited - 19\nNo. of outlets from where order received for focused products - 8\n\nMR Laskar Store\nTru Litchi 30 pcs\nValue = ₹300\n\nTS Enterprise\nLassi 30 pcs\nKool 24 pcs\nKool Pet Bottle 30 pcs\nValue = ₹1950\n\nRimpi Enterprise\nLassi 30 pcs\nValue = ₹600\n\nDaily Basket\nMasti 60 pcs\nLassi 30 pcs\nKool 24 pcs\nTru Apple 30 pcs\nValue = ₹2400\n\nChoudhury Store\nKool 24 pcs\nLassi 30 pcs\nTru Apple 60 pcs\nTru Litchi 60 pcs\nValue = ₹2400\n\nKurmi Store\nLassi 30 pcs\nValue = ₹600\n\nNath Enterprise\nLassi 30 pcs\nValue = ₹600\n\nBarak Hub\nKool 24 pcs\nLassi 30 pcs\nMasti 30 pcs\nValue = ₹1650\n\n---"
     },
     {
@@ -152,12 +154,12 @@
       "day_name": "Wednesday",
       "distributor": "Modern Times",
       "beat": "Ambicapatty",
-      "salesman": "Papai",
+      "salesman": "Santosh PSM",
       "visited": 20,
       "converted": 9,
       "conversion_rate": 45.0,
-      "total_value": 5532.0,
-      "total_pieces": 270,
+      "total_value": 18576.6,
+      "total_pieces": 576,
       "observations": "1. Despite active pitching, most retailers showed limited interest in stocking Amul beverages. Amul Tru and Kool have slow movement in this locality, with products like Thumbs Up, Paperboat, Maaza, Lahori Jeera, and Sting dominating shelf space across outlets.\n2. Non Stop brand drinks (litchi, mango, etc. in 140ml packs) have significant fridge penetration in this beat, leaving little room for Amul Tru. Their PTR stands at ₹6.50 per piece (₹260/case of 40 pcs) against an MRP of ₹10 — a margin retailers find difficult to pass up, regardless of Amul Tru's taste, ingredient quality and brand value.\n3. Mother's Dairy flavoured milk and lassi were observed at several outlets. Trade pricing noted at Lokenath Store — Flavoured Milk: PTR ₹24.50 / MRP ₹30; Lassi: PTR ₹17.50 / MRP ₹20. MilkyMist 200g frozen paneer was also present at the same outlet — PTR ₹85 / MRP ₹120.\n4. The SD Amul Parlour reported unexpectedly strong sales of pedas and butter cake. The outlet wished to reorder but stock was unavailable at the distributor's end.\n5. Demand for cow milk (3 outlets) and 100g cheese slices (4 outlets) was noted across the beat, but could not be fulfilled due to stock unavailability at the distributor level.\n\n---"
     },
     {
@@ -170,8 +172,8 @@
       "visited": 25,
       "converted": 6,
       "conversion_rate": 24.0,
-      "total_value": 3957.6,
-      "total_pieces": 252,
+      "total_value": 6473.1,
+      "total_pieces": 408,
       "observations": "1. Almost all shops inside the bazaar don't stock beverages, fridge-owning outlets pitched but declined.\n2. A retailer received coconut cookies last week with a July expiry date — limited shelf life to sell through.\n3. A retailer received 100g of butter which melted a bit and discolored its packets, and customers are refusing to buy it.\n\n---"
     },
     {
@@ -184,8 +186,8 @@
       "visited": 21,
       "converted": 6,
       "conversion_rate": 28.6,
-      "total_value": 2655.0,
-      "total_pieces": 174,
+      "total_value": 11186.28,
+      "total_pieces": 204,
       "observations": "(12 June 2026)\n\nDistributor Name - Sengupta Agencies\nBeat Name - National Highway\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 21\nNo. of outlets from where order received for focused products - 6\n\nMonosha Varieties\nTru Orange 30 pcs\nValue = ₹300\n\nChanchala Chodhury Enterprise\nLassi 30 pcs\nValue = ₹600\n\nLokenath Store 2\nLassi 30 pcs\nTru Mango 30 pcs\nValue = ₹900\n\nLokenath Store 1\nTru mango 30 pcs\nTru litchi 30 pcs\nTru chocolate 30 pcs\nKool 24 pcs\nlassi 30 pcs\nValue = ₹2100\n\nSunil Store\nLassi 30 pcs\nMasti 30 pcs\nTru Mango 30 pcs\nTru Litchi 30 pcs\nTru Apple 30 pcs\nValue = ₹1950\n\nRoy Enterprise\nKool 24 pcs\nValue = ₹600\n\n---"
     },
     {
@@ -198,180 +200,194 @@
       "visited": 6,
       "converted": 3,
       "conversion_rate": 50.0,
-      "total_value": 1816.2,
-      "total_pieces": 78,
+      "total_value": 1543.2,
+      "total_pieces": 120,
       "observations": "(13 June 2026)\n\nDistributor Name - Sengupta Agencies\nBeat Name - Hailakandi Road\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 6\nNo. of outlets from where order received for focused products - 3\n\nAjit Kalendi\nlassi 30 pcs\nkool 24 pcs\nValue = ₹1200\n\nShomes\nkool 24 pcs\nValue = ₹600\n\nDutta Store\nkool 24 pcs\ntru litchi 30 pcs\ntru chocolates 30 pcs\nValue = ₹1200\n\n1. Sushil Da's fever increased significantly, and he was unable to continue, so the beat had to be stopped.\n2. Retailers mentioned that two girls had visited the same beat earlier today, introducing themselves as being from Amul. They were asking questions about Amul products.\n\n---"
     },
     {
       "day_no": 15,
-      "date": "2026-06-17",
-      "day_name": "Wednesday",
+      "date": "2026-06-16",
+      "day_name": "Tuesday",
       "distributor": "Sengupta Agencies",
       "beat": "NS Avenue",
       "salesman": "Sushil Das",
       "visited": 13,
       "converted": 5,
       "conversion_rate": 38.5,
-      "total_value": 5431.2,
+      "total_value": 5214.9,
       "total_pieces": 216,
       "observations": "1. Cafehub had ordered 15 units of Fresh Cream but received only 4, while the bill reflected the full quantity of 15. The WDSM explained that the shortfall was due to fresh cream being short in stock, and the issue was resolved on the spot.\n2. Aman Enterprise raised a concern that delivery personnel were refusing to carry cartons up the stairs to his shop, leading him to stop placing orders for the past few weeks. The WDSM resolved the issue by arranging additional payment to the delivery staff, personally covering 60% of the amount due to them.\n3. The exact PTR for Nescafe Iced Frappe and Iced Latte (MRP ₹50) could not be confirmed; one retailer quoted ₹35, while Aman Enterprise quoted around ₹32 and cited ongoing schemes: buy 12 get 1 free, buy 25 get 2 free, and buy 50 get 4 free.\n4. Britannia Winkin' Cow Bourbon Shake was reported to carry a PTR of ₹28-29 against an MRP of ₹40.\n5. Among the outlets covered, one had a pending half payment, one did not place an order, three were closed, and two do not stock beverages.\n\n---"
     },
     {
       "day_no": 16,
+      "date": "2026-06-17",
+      "day_name": "Wednesday",
+      "distributor": "Sengupta Agencies",
+      "beat": "NS Avenue",
+      "salesman": "Sushil Das",
+      "visited": 12,
+      "converted": 5,
+      "conversion_rate": 41.7,
+      "total_value": 4016.4,
+      "total_pieces": 192,
+      "observations": "(19 June 2026)\n\nDistributor Name - Sengupta Agencies\nBeat Name - Ithkola 2\nIntern Name - Saurav Sinha\nSalesman Name - Amarjeet Deb Purkayastha\n\nTotal beverages sold today:\nAmul Kool 24 pcs\nTru Mango 30 pcs\nValue = ₹900\n\n---"
+    },
+    {
+      "day_no": 17,
       "date": "2026-06-19",
       "day_name": "Friday",
       "distributor": "Sengupta Agencies",
       "beat": "Itkhola 2",
       "salesman": "Amarjeet Deb Purkayastha",
-      "visited": 20,
-      "converted": 14,
-      "conversion_rate": 70.0,
-      "total_value": 10174.68,
-      "total_pieces": 510,
-      "observations": "(19 June 2026)\n\nDistributor Name - Sengupta Agencies\nBeat Name - Ithkola 2\nIntern Name - Saurav Sinha\nSalesman Name - Amarjeet Deb Purkayastha\n\nTotal beverages sold today:\nAmul Kool 24 pcs\nTru Mango 30 pcs\nValue = ₹900\n\n---"
+      "visited": 25,
+      "converted": 2,
+      "conversion_rate": 8.0,
+      "total_value": 4658.4,
+      "total_pieces": 72,
+      "observations": "(20 June 2026)\n\n, out of the 25 shops visited, 7 were closed, 6 don’t stock beverages, and 1 didn’t place an order. The remaining outlets were hesitant to stock beverages due to the rain, not just yesterday, but throughout the last week. They mentioned that beverage sales have slowed significantly because of the rain, and since they hadn’t cleared last week’s stock, they chose not to order beverages this week. A few shops also made only partial payments.\nDistributor Name - Sengupta Agencies\nBeat Name - Malugram 2\nIntern Name - Saurav Sinha\nSalesman Name - Amarjeet Deb Purkayastha\nNo. of outlets visited - 28\n\nTotal beverages sold today\nKool 96 pcs\nLassi 30 pcs\nValue = ₹ 3000\n\n1. Of the 28 shops visited, 17 either do not stock beverages, were closed, made only partial payment, or placed no order.\n2. Several retailers reported slow beverage sales due to the rainy season and indicated they are currently prioritising essential dairy items over beverages, with some planning to resume beverage orders next week.\n3. Two retailers raised complaints regarding dampness in T Special Rusk packaging. A similar complaint arose during yesterday's beat, where an end customer returned the product to the retailer, who is now seeking a return/replacement from the distributor.\n4. During the questionnaire survey, it was observed that many retailers lack awareness of Amul's broader beverage portfolio beyond the top-selling SKUs. While purchasing power in this market may be limited, sale of BSC MS suggests potential demand for other flavoured drinks and milkshakes as well.\n\n---"
     },
     {
-      "day_no": 17,
+      "day_no": 18,
       "date": "2026-06-20",
       "day_name": "Saturday",
       "distributor": "Sengupta Agencies",
       "beat": "Malugram 2",
       "salesman": "Amarjeet Deb Purkayastha",
       "visited": 28,
-      "converted": 19,
-      "conversion_rate": 67.9,
-      "total_value": 42316.8,
-      "total_pieces": 678,
-      "observations": "(20 June 2026)\n\n, out of the 25 shops visited, 7 were closed, 6 don’t stock beverages, and 1 didn’t place an order. The remaining outlets were hesitant to stock beverages due to the rain, not just yesterday, but throughout the last week. They mentioned that beverage sales have slowed significantly because of the rain, and since they hadn’t cleared last week’s stock, they chose not to order beverages this week. A few shops also made only partial payments.\nDistributor Name - Sengupta Agencies\nBeat Name - Malugram 2\nIntern Name - Saurav Sinha\nSalesman Name - Amarjeet Deb Purkayastha\nNo. of outlets visited - 28\n\nTotal beverages sold today\nKool 96 pcs\nLassi 30 pcs\nValue = ₹ 3000\n\n1. Of the 28 shops visited, 17 either do not stock beverages, were closed, made only partial payment, or placed no order.\n2. Several retailers reported slow beverage sales due to the rainy season and indicated they are currently prioritising essential dairy items over beverages, with some planning to resume beverage orders next week.\n3. Two retailers raised complaints regarding dampness in T Special Rusk packaging. A similar complaint arose during yesterday's beat, where an end customer returned the product to the retailer, who is now seeking a return/replacement from the distributor.\n4. During the questionnaire survey, it was observed that many retailers lack awareness of Amul's broader beverage portfolio beyond the top-selling SKUs. While purchasing power in this market may be limited, sale of BSC MS suggests potential demand for other flavoured drinks and milkshakes as well.\n\n---"
+      "converted": 4,
+      "conversion_rate": 14.3,
+      "total_value": 13569.6,
+      "total_pieces": 144,
+      "observations": "(22 June 2026)\n\n22-06-26 Monday\nBeat Name - Malugram 4\nNo WDSM\n\nCoved some shops for questionnaire in that beat.\n\n---"
     },
     {
-      "day_no": 18,
+      "day_no": 19,
       "date": "2026-06-22",
       "day_name": "Monday",
       "distributor": "Sengupta Agencies",
       "beat": "Malugram 4",
       "salesman": "Amarjeet Deb Purkayastha",
-      "visited": 20,
-      "converted": 14,
-      "conversion_rate": 70.0,
-      "total_value": 47493.6,
-      "total_pieces": 504,
-      "observations": "(22 June 2026)\n\n22-06-26 Monday\nBeat Name - Malugram 4\nNo WDSM\n\nCoved some shops for questionnaire in that beat.\n\n---"
+      "visited": 18,
+      "converted": 12,
+      "conversion_rate": 66.7,
+      "total_value": 23529.6,
+      "total_pieces": 432,
+      "observations": "(23 June 2026)\n\n23-06-26 Tuesday\nBeat Name - Malugram 3\n\nNo WDSM\nCovered the entire beat for the questionnaire.\n\n---"
     },
     {
-      "day_no": 19,
+      "day_no": 20,
       "date": "2026-06-23",
       "day_name": "Tuesday",
       "distributor": "Sengupta Agencies",
       "beat": "Malugram 3",
       "salesman": "Amarjeet Deb Purkayastha",
-      "visited": 20,
-      "converted": 14,
-      "conversion_rate": 70.0,
-      "total_value": 27451.2,
-      "total_pieces": 504,
-      "observations": "(23 June 2026)\n\n23-06-26 Tuesday\nBeat Name - Malugram 3\n\nNo WDSM\nCovered the entire beat for the questionnaire.\n\n---"
+      "visited": 15,
+      "converted": 10,
+      "conversion_rate": 66.7,
+      "total_value": 26023.2,
+      "total_pieces": 360,
+      "observations": "(24 June 2026)\n\n24-06-26 Wednesday\nBeat Name - Malugram 1\n\nCovered some shops for the questionnaire which were closed/missed last week.\nTalked with a potential retailer/wholesaler in that area.\n\n---"
     },
     {
-      "day_no": 20,
+      "day_no": 21,
       "date": "2026-06-24",
       "day_name": "Wednesday",
       "distributor": "Sengupta Agencies",
       "beat": "Malugram 1",
       "salesman": "Amarjeet Deb Purkayastha",
-      "visited": 20,
+      "visited": 23,
       "converted": 14,
-      "conversion_rate": 70.0,
-      "total_value": 36432.48,
+      "conversion_rate": 60.9,
+      "total_value": 6481.44,
       "total_pieces": 504,
-      "observations": "(24 June 2026)\n\n24-06-26 Wednesday\nBeat Name - Malugram 1\n\nCovered some shops for the questionnaire which were closed/missed last week.\nTalked with a potential retailer/wholesaler in that area.\n\n---"
+      "observations": "(25 June 2026)\n\n25-06-26 Thrusday\nDistributor Name - Sengupta Agencies\nBeat Name - 1st Link Road\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 12\n\nLokenath Store\nTru Mango 30 pcs\nKool 24 pcs\n\nMaa Monosha Bhandar\nLassi 30 pcs\n\nTisha Stores\nLassi 30 pcs\n\nMoon Stores\nLassi 30 pcs\n\nValue = ₹2700\n\nTwo of the retailers reported their sales were down significantly due to jiomart and instamart.\nOne retailer reported that he buys some of the items from instamart, jiomart and flipkart bazar and he gets it significantly cheaper (espcially talking about Aashirvaad aata) than the pricing from the distributor.\n\n---"
     },
     {
-      "day_no": 21,
+      "day_no": 22,
       "date": "2026-06-25",
       "day_name": "Thursday",
       "distributor": "Sengupta Agencies",
       "beat": "1st Link Road",
       "salesman": "Sushil Das",
       "visited": 12,
-      "converted": 8,
-      "conversion_rate": 66.7,
-      "total_value": 3786.24,
-      "total_pieces": 294,
-      "observations": "(25 June 2026)\n\n25-06-26 Thrusday\nDistributor Name - Sengupta Agencies\nBeat Name - 1st Link Road\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 12\n\nLokenath Store\nTru Mango 30 pcs\nKool 24 pcs\n\nMaa Monosha Bhandar\nLassi 30 pcs\n\nTisha Stores\nLassi 30 pcs\n\nMoon Stores\nLassi 30 pcs\n\nValue = ₹2700\n\nTwo of the retailers reported their sales were down significantly due to jiomart and instamart.\nOne retailer reported that he buys some of the items from instamart, jiomart and flipkart bazar and he gets it significantly cheaper (espcially talking about Aashirvaad aata) than the pricing from the distributor.\n\n---"
+      "converted": 4,
+      "conversion_rate": 33.3,
+      "total_value": 1860.48,
+      "total_pieces": 144,
+      "observations": "(26 June 2026)\n\n26-06-26 Friday\nDistributor Name - Sengupta Agencies\nBeat Name - Sonai\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 10\n\nMaa Basanti Pan Bhandar\nKool 24 pcs\n\nBiponi\nLassi 30 pcs\nKool 24 pcs\nTru Mango 30 pcs\n\nNanda Bhandar\nKool 24 pcs\n\nRadha Raman Bhandar\nLassi 60 pcs (in cash)\n\nValue = ₹3900\n\nRain affected beverage sales, and retailers, even with half cases of Amul drinks in their shop, weren’t keen on stocking up on beverages.\n\n---"
     },
     {
-      "day_no": 22,
+      "day_no": 23,
       "date": "2026-06-26",
       "day_name": "Friday",
       "distributor": "Sengupta Agencies",
       "beat": "Sonai Road",
       "salesman": "Sushil Das",
       "visited": 10,
-      "converted": 7,
-      "conversion_rate": 70.0,
-      "total_value": 3573.12,
-      "total_pieces": 276,
-      "observations": "(26 June 2026)\n\n26-06-26 Friday\nDistributor Name - Sengupta Agencies\nBeat Name - Sonai\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 10\n\nMaa Basanti Pan Bhandar\nKool 24 pcs\n\nBiponi\nLassi 30 pcs\nKool 24 pcs\nTru Mango 30 pcs\n\nNanda Bhandar\nKool 24 pcs\n\nRadha Raman Bhandar\nLassi 60 pcs (in cash)\n\nValue = ₹3900\n\nRain affected beverage sales, and retailers, even with half cases of Amul drinks in their shop, weren’t keen on stocking up on beverages.\n\n---"
-    },
-    {
-      "day_no": 23,
-      "date": "2026-06-27",
-      "day_name": "Saturday",
-      "distributor": "Sengupta Agencies",
-      "beat": "National Highway",
-      "salesman": "Amarjeet Deb Purkayastha",
-      "visited": 16,
-      "converted": 11,
-      "conversion_rate": 68.8,
-      "total_value": 7930.8,
-      "total_pieces": 384,
+      "converted": 4,
+      "conversion_rate": 40.0,
+      "total_value": 3705.0,
+      "total_pieces": 192,
       "observations": "(27 June 2026)\n\n27-06-26 - Saturday\nDistributor Name - Sengupta Agencies\nBeat Name - National Highway\nIntern Name - Saurav Sinha\nSalesman Name - Amarjeet Deb Purkayastha\nNo. of outlets visited - 16\n\nChanchala Choudhury Enterprise\nLassi 30 pcs\nKool 24 pcs\n\nKalpana Store\nLassi 30 pcs\n\nSree Data Store\nLassi 30 pcs\nKool 24 pcs\n\nTotal = ₹3000\n\nThe overall sale of this beat was down, in some shops even liquid milk was moving slowly.\nRain affected the sale of beverages\n\n---"
     },
     {
       "day_no": 24,
+      "date": "2026-06-27",
+      "day_name": "Saturday",
+      "distributor": "Sengupta Agencies",
+      "beat": "National Highway",
+      "salesman": "Sushil Das",
+      "visited": 16,
+      "converted": 3,
+      "conversion_rate": 18.8,
+      "total_value": 8499.6,
+      "total_pieces": 120,
+      "observations": "(29 June 2026)\n\n29-06-2026\nDistributor Name - Sengupta Agencies\nBeat Name - Sarat Pally\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 16\n\nLaxmi Narayan Store \nkool 24 pcs\nlassi 30 pcs\n\nGourpriyo Enterprise\nkool 24 pcs\nlassi 30 pcs\ntru litchi 30 pcs\n\nDebnath Varieties\nkool 24 pcs\nkadhai doodh can 6 pcs\nkool badam can 12 pcs\nkool strawberry can 6 pcs\nmasti 30 pcs\n\nValue = ₹4620\n\n---"
+    },
+    {
+      "day_no": 25,
       "date": "2026-06-29",
       "day_name": "Monday",
       "distributor": "Sengupta Agencies",
       "beat": "Saratpally",
       "salesman": "Sushil Das",
       "visited": 16,
-      "converted": 11,
-      "conversion_rate": 68.8,
-      "total_value": 23683.2,
-      "total_pieces": 390,
-      "observations": "(29 June 2026)\n\n29-06-2026\nDistributor Name - Sengupta Agencies\nBeat Name - Sarat Pally\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 16\n\nLaxmi Narayan Store \nkool 24 pcs\nlassi 30 pcs\n\nGourpriyo Enterprise\nkool 24 pcs\nlassi 30 pcs\ntru litchi 30 pcs\n\nDebnath Varieties\nkool 24 pcs\nkadhai doodh can 6 pcs\nkool badam can 12 pcs\nkool strawberry can 6 pcs\nmasti 30 pcs\n\nValue = ₹4620\n\n---"
+      "converted": 3,
+      "conversion_rate": 18.8,
+      "total_value": 4445.4,
+      "total_pieces": 216,
+      "observations": "(30 June 2026)\n\n30-06-2026\nDistributor Name - Sengupta Agencies\nBeat Name - NS Avenue\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 14\n\nNo sale of beverages during the market visit.\nOut of the 14 visited, only 8 shops placed orders. Orders from two shops will be placed later because no retailer was present.\n\nOrders placed later :\nkool 96 pcs\nlassi 90 pcs\nValue = ₹4200\n\n---"
     },
     {
-      "day_no": 25,
+      "day_no": 26,
       "date": "2026-06-30",
       "day_name": "Tuesday",
       "distributor": "Sengupta Agencies",
       "beat": "NS Avenue",
       "salesman": "Sushil Das",
       "visited": 14,
-      "converted": 9,
-      "conversion_rate": 64.3,
-      "total_value": 28312.8,
-      "total_pieces": 378,
-      "observations": "(30 June 2026)\n\n30-06-2026\nDistributor Name - Sengupta Agencies\nBeat Name - NS Avenue\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 14\n\nNo sale of beverages during the market visit.\nOut of the 14 visited, only 8 shops placed orders. Orders from two shops will be placed later because no retailer was present.\n\nOrders placed later :\nkool 96 pcs\nlassi 90 pcs\nValue = ₹4200\n\n---"
+      "converted": 8,
+      "conversion_rate": 57.1,
+      "total_value": 15686.4,
+      "total_pieces": 288,
+      "observations": "(01 July 2026)\n\n01-07-2026\nDistributor Name - Sengupta Agencies\nBeat Name - Hailakandi Road\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 18\n\nAjit Kalindi\ntru mango 30 pcs\ntru chocolate 30 pcs\n\nShomes\nlassi 30 pcs\nkool 24 pcs\ntru mango 30 pcs\n\nHrishikesh Bhandar\nlassi 30 pcs\n\nBasudev Bhandar\nmasti 1L 6 pcs\nmasti 60 pcs\nkool 48 pcs\n\nSuma Store\nlassi 30 pcs\n\nSri Sri Radharaman Bhandar \nkool 24 pcs\nlassi 30 pcs\n\nCold Bar\nkool 120 pcs\nlassi 150 pcs\nmasti 90 pcs\n\nValue = ₹14370\n\nBasudev Bhandar asked for Mango Lassi, which was out of stock at the distributor.\nAt several shops, biscuits were asked by the retailers, but no biscuits were in stock at the distributor.\nCans were pitched across the beat, but no one showed interest.\n100 shops have been covered for the questionnaire as of today.\n\n---"
     },
     {
-      "day_no": 26,
+      "day_no": 27,
       "date": "2026-07-01",
       "day_name": "Wednesday",
       "distributor": "Sengupta Agencies",
       "beat": "Hailakandi Road",
       "salesman": "Sushil Das",
       "visited": 18,
-      "converted": 12,
-      "conversion_rate": 66.7,
-      "total_value": 23966.4,
-      "total_pieces": 498,
-      "observations": "(01 July 2026)\n\n01-07-2026\nDistributor Name - Sengupta Agencies\nBeat Name - Hailakandi Road\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 18\n\nAjit Kalindi\ntru mango 30 pcs\ntru chocolate 30 pcs\n\nShomes\nlassi 30 pcs\nkool 24 pcs\ntru mango 30 pcs\n\nHrishikesh Bhandar\nlassi 30 pcs\n\nBasudev Bhandar\nmasti 1L 6 pcs\nmasti 60 pcs\nkool 48 pcs\n\nSuma Store\nlassi 30 pcs\n\nSri Sri Radharaman Bhandar \nkool 24 pcs\nlassi 30 pcs\n\nCold Bar\nkool 120 pcs\nlassi 150 pcs\nmasti 90 pcs\n\nValue = ₹14370\n\nBasudev Bhandar asked for Mango Lassi, which was out of stock at the distributor.\nAt several shops, biscuits were asked by the retailers, but no biscuits were in stock at the distributor.\nCans were pitched across the beat, but no one showed interest.\n100 shops have been covered for the questionnaire as of today.\n\n---"
+      "converted": 7,
+      "conversion_rate": 38.9,
+      "total_value": 13383.0,
+      "total_pieces": 732,
+      "observations": "(03 July 2026)\n\n3/7/26\nDistributor Name - Sengupta Agencies\nBeat Name - 1st Link Road\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 12\n\nTotal Beverages Sold\ntru mango 30 pcs\nlassi 30 pcs\nkool 48 pcs\ntru orange 30 pcs\nmasti 200ml 30 pcs\n\nTotal Value : ₹2850\n\n---"
     },
     {
-      "day_no": 27,
+      "day_no": 28,
       "date": "2026-07-03",
       "day_name": "Friday",
       "distributor": "Sengupta Agencies",
@@ -380,12 +396,12 @@
       "visited": 12,
       "converted": 8,
       "conversion_rate": 66.7,
-      "total_value": 18761.76,
-      "total_pieces": 294,
-      "observations": "(03 July 2026)\n\n3/7/26\nDistributor Name - Sengupta Agencies\nBeat Name - 1st Link Road\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 12\n\nTotal Beverages Sold\ntru mango 30 pcs\nlassi 30 pcs\nkool 48 pcs\ntru orange 30 pcs\nmasti 200ml 30 pcs\n\nTotal Value : ₹2850\n\n---"
+      "total_value": 3703.68,
+      "total_pieces": 288,
+      "observations": "(04 July 2026)\n\n4/7/26\nDistributor Name - Sengupta Agencies\nBeat Name - Malugram 2\nIntern Name - Saurav Sinha\nSalesman Name - Amarjeet Deb Purkayastha\nNo. of outlets visited - 27\n\nTotal beverages sold\nlassi 240 pcs\nkool 192 pcs\ntru mango 150 pcs\ntru orange 30 pcs\ntru apple 30 pcs\ntru litchi 150 pcs\ntru chocolate 180 pcs\n\nValue: ₹15,000\n\n---"
     },
     {
-      "day_no": 28,
+      "day_no": 29,
       "date": "2026-07-04",
       "day_name": "Saturday",
       "distributor": "Sengupta Agencies",
@@ -394,12 +410,12 @@
       "visited": 27,
       "converted": 18,
       "conversion_rate": 66.7,
-      "total_value": 10339.44,
-      "total_pieces": 804,
-      "observations": "(04 July 2026)\n\n4/7/26\nDistributor Name - Sengupta Agencies\nBeat Name - Malugram 2\nIntern Name - Saurav Sinha\nSalesman Name - Amarjeet Deb Purkayastha\nNo. of outlets visited - 27\n\nTotal beverages sold\nlassi 240 pcs\nkool 192 pcs\ntru mango 150 pcs\ntru orange 30 pcs\ntru apple 30 pcs\ntru litchi 150 pcs\ntru chocolate 180 pcs\n\nValue: ₹15,000\n\n---"
+      "total_value": 8372.16,
+      "total_pieces": 648,
+      "observations": "(06 July 2026)\n\n6/7/26\nDistributor Name - Sengupta Agencies\nBeat Name - Saratpally\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 16\n\nTotal beverages sold\nkool 120 pcs\ntru mango 150 pcs\ntru orange 120 pcs\ntru litchi 90 pcs\ntru apple 30 pcs\nbadam cans 6 pcs\nkool koko cans 3 pcs\nlassi 90 pcs\n\nValue = ₹9045\n\n---"
     },
     {
-      "day_no": 29,
+      "day_no": 30,
       "date": "2026-07-06",
       "day_name": "Monday",
       "distributor": "Sengupta Agencies",
@@ -408,12 +424,12 @@
       "visited": 16,
       "converted": 11,
       "conversion_rate": 68.8,
-      "total_value": 5824.8,
-      "total_pieces": 450,
-      "observations": "(06 July 2026)\n\n6/7/26\nDistributor Name - Sengupta Agencies\nBeat Name - Saratpally\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 16\n\nTotal beverages sold\nkool 120 pcs\ntru mango 150 pcs\ntru orange 120 pcs\ntru litchi 90 pcs\ntru apple 30 pcs\nbadam cans 6 pcs\nkool koko cans 3 pcs\nlassi 90 pcs\n\nValue = ₹9045\n\n---"
+      "total_value": 8345.76,
+      "total_pieces": 408,
+      "observations": "(07 July 2026)\n\n7/7/26\nDistributor Name - Sengupta Agencies\nBeat Name - Saratpally\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 13\n\nTotal beverages sold\nlassi 90 pcs\nkool 24 pcs\nkool koko cans 6 pcs\nbadam ms cans 3 pcs\ntru apple 30 pcs\ntru litchi 30 pcs\n\nValue = ₹3330\n\n---"
     },
     {
-      "day_no": 30,
+      "day_no": 31,
       "date": "2026-07-07",
       "day_name": "Tuesday",
       "distributor": "Sengupta Agencies",
@@ -422,12 +438,12 @@
       "visited": 13,
       "converted": 9,
       "conversion_rate": 69.2,
-      "total_value": 6158.28,
-      "total_pieces": 318,
-      "observations": "(07 July 2026)\n\n7/7/26\nDistributor Name - Sengupta Agencies\nBeat Name - Saratpally\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 13\n\nTotal beverages sold\nlassi 90 pcs\nkool 24 pcs\nkool koko cans 6 pcs\nbadam ms cans 3 pcs\ntru apple 30 pcs\ntru litchi 30 pcs\n\nValue = ₹3330\n\n---"
+      "total_value": 22474.8,
+      "total_pieces": 336,
+      "observations": "(08 July 2026)\n\n8/7/26\nDistributor Name - Sengupta Agencies\nBeat Name - Hailakandi Road\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 18\n\nTotal beverages sold\nkool 96 pcs\ntru mango 30 pcs\ntru litchi 30 pcs\nbadam ms can 12 pcs\n\nValue = ₹3480\n\n---"
     },
     {
-      "day_no": 31,
+      "day_no": 32,
       "date": "2026-07-08",
       "day_name": "Wednesday",
       "distributor": "Sengupta Agencies",
@@ -436,12 +452,12 @@
       "visited": 18,
       "converted": 12,
       "conversion_rate": 66.7,
-      "total_value": 27541.8,
-      "total_pieces": 420,
-      "observations": "(08 July 2026)\n\n8/7/26\nDistributor Name - Sengupta Agencies\nBeat Name - Hailakandi Road\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 18\n\nTotal beverages sold\nkool 96 pcs\ntru mango 30 pcs\ntru litchi 30 pcs\nbadam ms can 12 pcs\n\nValue = ₹3480\n\n---"
+      "total_value": 40708.8,
+      "total_pieces": 432,
+      "observations": "(09 July 2026)\n\n09-07-26\nDistributor Name - Sengupta Agencies\nBeat Name - 1st Link Road\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 12\n\nNo beverages were sold\n\n---"
     },
     {
-      "day_no": 32,
+      "day_no": 33,
       "date": "2026-07-09",
       "day_name": "Thursday",
       "distributor": "Sengupta Agencies",
@@ -450,12 +466,12 @@
       "visited": 12,
       "converted": 8,
       "conversion_rate": 66.7,
-      "total_value": 27139.2,
+      "total_value": 15686.4,
       "total_pieces": 288,
-      "observations": "(09 July 2026)\n\n09-07-26\nDistributor Name - Sengupta Agencies\nBeat Name - 1st Link Road\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 12\n\nNo beverages were sold\n\n---"
+      "observations": "(10 July 2026)\n\n10-07-26\nDistributor Name - Sengupta Agencies\nBeat Name - Sonai Road\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 10\n\nTotal beverages sold\nlassi 90 pcs\n\nValue = ₹1800\n\n---"
     },
     {
-      "day_no": 33,
+      "day_no": 34,
       "date": "2026-07-10",
       "day_name": "Friday",
       "distributor": "Sengupta Agencies",
@@ -464,22 +480,8 @@
       "visited": 10,
       "converted": 7,
       "conversion_rate": 70.0,
-      "total_value": 12938.4,
-      "total_pieces": 306,
-      "observations": "(10 July 2026)\n\n10-07-26\nDistributor Name - Sengupta Agencies\nBeat Name - Sonai Road\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 10\n\nTotal beverages sold\nlassi 90 pcs\n\nValue = ₹1800\n\n---"
-    },
-    {
-      "day_no": 34,
-      "date": "2026-07-11",
-      "day_name": "Saturday",
-      "distributor": "Sengupta Agencies",
-      "beat": "National Highway",
-      "salesman": "Sushil Das",
-      "visited": 16,
-      "converted": 11,
-      "conversion_rate": 68.8,
-      "total_value": 27588.0,
-      "total_pieces": 480,
+      "total_value": 18370.56,
+      "total_pieces": 264,
       "observations": "(11 July 2026)\n\n11-07-26\nDistributor Name - Sengupta Agencies\nBeat Name - National Highway\nIntern Name - Saurav Sinha\nSalesman Name - Sushil Das\nNo. of outlets visited - 16\n\nTotal beverages sold:\nkool 72 pcs \nlassi 120 pcs\n\nValue = ₹4200\n\n---"
     }
   ],
@@ -540,7 +542,7 @@
       "highest_volume_brand": "CSDs (Coca-Cola, Sprite, Pepsi)",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
       "support_needed": "Unsure",
       "remarks": ""
     },
@@ -587,7 +589,7 @@
     {
       "survey_id": "SURVEY_006",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 1",
+      "beat_name": "Itkhola",
       "retailer_name": "RR store",
       "stocked_variants": "Amul Kool, Amul Lassi, Amul Tru",
       "top_demanded_product": "Amul Kool",
@@ -607,7 +609,7 @@
     {
       "survey_id": "SURVEY_007",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 1",
+      "beat_name": "Itkhola",
       "retailer_name": "Tapu Sarkar",
       "stocked_variants": "Amul Kool, Amul Lassi, Amul Masti, Amul Tru, Amul Milkshake",
       "top_demanded_product": "Amul Lassi",
@@ -627,7 +629,7 @@
     {
       "survey_id": "SURVEY_008",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 1",
+      "beat_name": "Itkhola",
       "retailer_name": "Ranjita Pan Bhandar",
       "stocked_variants": "Amul Kool, Amul Lassi, Amul Masti, Amul Kool Cafe",
       "top_demanded_product": "Amul Lassi",
@@ -647,7 +649,7 @@
     {
       "survey_id": "SURVEY_009",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 1",
+      "beat_name": "Itkhola",
       "retailer_name": "Naru Tea Stall",
       "stocked_variants": "Amul Kool, Amul Lassi, Amul Kool Cans",
       "top_demanded_product": "Amul Lassi",
@@ -667,7 +669,7 @@
     {
       "survey_id": "SURVEY_010",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 1",
+      "beat_name": "Itkhola",
       "retailer_name": "GM Store",
       "stocked_variants": "Amul Kool, Amul Lassi, Amul Masti, Amul Tru",
       "top_demanded_product": "Amul Kool",
@@ -680,14 +682,14 @@
       "highest_volume_brand": "CSDs (Coca-Cola, Sprite, Pepsi)",
       "better_margin_brand": "CSDs (Coca-Cola, Sprite, Pepsi)",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
       "support_needed": "Better Margin",
       "remarks": "Was too busy dealing with customers so wasn't able to get all answers"
     },
     {
       "survey_id": "SURVEY_011",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 1",
+      "beat_name": "Itkhola",
       "retailer_name": "Santush Store",
       "stocked_variants": "Amul Tru",
       "top_demanded_product": "",
@@ -700,14 +702,14 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
       "survey_id": "SURVEY_012",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 2",
+      "beat_name": "Ithkola 2",
       "retailer_name": "R Biponi",
       "stocked_variants": "Amul Kool, Amul Lassi, Amul Tru, Amul Kool Cafe, Amul Milkshake",
       "top_demanded_product": "Amul Lassi",
@@ -727,7 +729,7 @@
     {
       "survey_id": "SURVEY_013",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 2",
+      "beat_name": "Ithkola 2",
       "retailer_name": "Jyoti Stores",
       "stocked_variants": "Amul Kool, Amul Lassi, Amul Tru, Amul Milkshake",
       "top_demanded_product": "Amul Lassi",
@@ -747,7 +749,7 @@
     {
       "survey_id": "SURVEY_014",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 2",
+      "beat_name": "Ithkola 2",
       "retailer_name": "SB Enterprise",
       "stocked_variants": "Amul Kool, Amul Lassi, Amul Kool Gold",
       "top_demanded_product": "",
@@ -760,14 +762,14 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": "did not store beverages"
     },
     {
       "survey_id": "SURVEY_015",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 2",
+      "beat_name": "Ithkola 2",
       "retailer_name": "Ajoy Pan Shop",
       "stocked_variants": "Amul Kool, Amul Lassi, Amul Tru",
       "top_demanded_product": "Amul Lassi",
@@ -780,14 +782,14 @@
       "highest_volume_brand": "CSDs (Coca-Cola, Sprite, Pepsi)",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
       "survey_id": "SURVEY_016",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 2",
+      "beat_name": "Ithkola 2",
       "retailer_name": "Radhika Store",
       "stocked_variants": "Amul Kool, Amul Lassi, Amul Tru",
       "top_demanded_product": "Amul Kool",
@@ -807,7 +809,7 @@
     {
       "survey_id": "SURVEY_017",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 2",
+      "beat_name": "Ithkola 2",
       "retailer_name": "Aftab Hussain",
       "stocked_variants": "Amul Kool, Amul Lassi, Amul Tru",
       "top_demanded_product": "Amul Lassi",
@@ -820,14 +822,14 @@
       "highest_volume_brand": "CSDs (Coca-Cola, Sprite, Pepsi)",
       "better_margin_brand": "Equal Margins Across Brands",
       "brand_loyalty": "Yes",
-      "challenges": "Low trade margin vs local competitor brands",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
       "support_needed": "Better Margin",
       "remarks": ""
     },
     {
       "survey_id": "SURVEY_018",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 2",
+      "beat_name": "Ithkola 2",
       "retailer_name": "Abhijit Choudhury",
       "stocked_variants": "Amul Tru",
       "top_demanded_product": "",
@@ -840,14 +842,14 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
       "survey_id": "SURVEY_019",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 2",
+      "beat_name": "Ithkola 2",
       "retailer_name": "Arup Deb",
       "stocked_variants": "Amul Kool, Amul Vanilla Milkshake",
       "top_demanded_product": "Amul Kool",
@@ -861,13 +863,13 @@
       "better_margin_brand": "Dabur",
       "brand_loyalty": "Maybe",
       "challenges": "Shelf Space",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": "dabur jal jeera 4 taka margin"
     },
     {
       "survey_id": "SURVEY_020",
       "intern_name": "Saurav Sinha",
-      "beat_name": "Itkhola 2",
+      "beat_name": "Ithkola 2",
       "retailer_name": "Binapani Enterprise",
       "stocked_variants": "Amul Kool, Amul Lassi, Amul Tru",
       "top_demanded_product": "Amul Kool",
@@ -920,7 +922,7 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Yes",
-      "challenges": "Low trade margin vs local competitor brands",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
       "support_needed": "More Advertising and Customer Awareness about products other than Lassi, Kool, Tru",
       "remarks": ""
     },
@@ -1181,7 +1183,7 @@
       "better_margin_brand": "Equal Margins Across Brands",
       "brand_loyalty": "Yes",
       "challenges": "No Challenges",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1321,7 +1323,7 @@
       "better_margin_brand": "CSDs (Coca-Cola, Sprite, Pepsi)",
       "brand_loyalty": "Maybe",
       "challenges": "Lower Margin",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1360,8 +1362,8 @@
       "highest_volume_brand": "CSDs (Coca-Cola, Sprite, Pepsi)",
       "better_margin_brand": "",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1421,7 +1423,7 @@
       "better_margin_brand": "",
       "brand_loyalty": "No",
       "challenges": "Unsure",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1460,8 +1462,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "Sprite, Dabur",
       "brand_loyalty": "Yes",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1480,8 +1482,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1520,8 +1522,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Yes",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1540,8 +1542,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1581,7 +1583,7 @@
       "better_margin_brand": "Equal Margins Across Brands",
       "brand_loyalty": "Maybe",
       "challenges": "No Challenges",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1621,7 +1623,7 @@
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
       "challenges": "Lower Margin",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1660,8 +1662,8 @@
       "highest_volume_brand": "Pran, Frooti",
       "better_margin_brand": "",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1680,8 +1682,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1701,7 +1703,7 @@
       "better_margin_brand": "Equal Margins Across Brands",
       "brand_loyalty": "Maybe",
       "challenges": "No Challenges",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1721,7 +1723,7 @@
       "better_margin_brand": "Real Drinks",
       "brand_loyalty": "Maybe",
       "challenges": "Shelf Space",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1781,7 +1783,7 @@
       "better_margin_brand": "",
       "brand_loyalty": "Yes",
       "challenges": "No Challenges",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1840,8 +1842,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1880,8 +1882,8 @@
       "highest_volume_brand": "CSDs (Coca-Cola, Sprite, Pepsi)",
       "better_margin_brand": "",
       "brand_loyalty": "Yes",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -1900,7 +1902,7 @@
       "highest_volume_brand": "CSDs (Coca-Cola, Sprite, Pepsi)",
       "better_margin_brand": "Equal Margins Across Brands",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
       "support_needed": "Unsure",
       "remarks": ""
     },
@@ -1960,8 +1962,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2000,8 +2002,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2020,8 +2022,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2040,8 +2042,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2061,7 +2063,7 @@
       "better_margin_brand": "Equal Margins Across Brands",
       "brand_loyalty": "Maybe",
       "challenges": "No Challenges",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2080,8 +2082,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2100,8 +2102,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2120,8 +2122,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2160,8 +2162,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2180,8 +2182,8 @@
       "highest_volume_brand": "Mixed / No Single Dominant Brand",
       "better_margin_brand": "Pran",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2200,7 +2202,7 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
       "support_needed": "Better Margin",
       "remarks": ""
     },
@@ -2220,8 +2222,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Yes",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2260,8 +2262,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Yes",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2281,7 +2283,7 @@
       "better_margin_brand": "Equal Margins Across Brands",
       "brand_loyalty": "No",
       "challenges": "No Challenges",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2300,8 +2302,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Yes",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2320,8 +2322,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Yes",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2340,8 +2342,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2360,8 +2362,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "La Fizz",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2380,8 +2382,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2400,8 +2402,8 @@
       "highest_volume_brand": "CSDs (Coca-Cola, Sprite, Pepsi)",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": "bushimaal ar dukaan"
     },
     {
@@ -2440,8 +2442,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2460,8 +2462,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2480,8 +2482,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": "bushimaal ar dukan"
     },
     {
@@ -2520,8 +2522,8 @@
       "highest_volume_brand": "CSDs (Coca-Cola, Sprite, Pepsi)",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2540,8 +2542,8 @@
       "highest_volume_brand": "CSDs (Coca-Cola, Sprite, Pepsi)",
       "better_margin_brand": "",
       "brand_loyalty": "Yes",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2620,8 +2622,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2640,8 +2642,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Yes",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2680,7 +2682,7 @@
       "highest_volume_brand": "CSDs (Coca-Cola, Sprite, Pepsi)",
       "better_margin_brand": "Nescafe",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
       "support_needed": "Unsure",
       "remarks": ""
     },
@@ -2700,8 +2702,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "Equal Margins Across Brands",
       "brand_loyalty": "No",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2740,8 +2742,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "Equal Margins Across Brands",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": "mart"
     },
     {
@@ -2761,7 +2763,7 @@
       "better_margin_brand": "Nescafe",
       "brand_loyalty": "Maybe",
       "challenges": "Competition (Purabi)",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2800,8 +2802,8 @@
       "highest_volume_brand": "CSDs (Coca-Cola, Sprite, Pepsi)",
       "better_margin_brand": "",
       "brand_loyalty": "Yes",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2841,7 +2843,7 @@
       "better_margin_brand": "Equal Margins Across Brands",
       "brand_loyalty": "No",
       "challenges": "No Challenges",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     },
     {
@@ -2860,8 +2862,8 @@
       "highest_volume_brand": "",
       "better_margin_brand": "",
       "brand_loyalty": "Maybe",
-      "challenges": "Low trade margin vs local competitor brands",
-      "support_needed": "Trade schemes, faster return settlement, cooler support",
+      "challenges": "Low trade margin compared to regional brands like Purabi & Non Stop",
+      "support_needed": "Additional trade schemes, faster replacement of leaked/damaged packs, chiller space support",
       "remarks": ""
     }
   ],
@@ -2874,7 +2876,7 @@
       "ptr": 12.86,
       "retailer_margin_rs": 2.14,
       "margin_percent": 14.3,
-      "pack_size": "200ml",
+      "pack_size": "200ml Tetra",
       "units_per_case": 30
     },
     {
@@ -2885,18 +2887,7 @@
       "ptr": 12.86,
       "retailer_margin_rs": 2.14,
       "margin_percent": 14.3,
-      "pack_size": "200ml",
-      "units_per_case": 30
-    },
-    {
-      "product_name": "Amul Tru Chocolate 200ml",
-      "product_group": "Beverages",
-      "product_subgroup": "Flavoured Milk",
-      "mrp": 15.0,
-      "ptr": 12.86,
-      "retailer_margin_rs": 2.14,
-      "margin_percent": 14.3,
-      "pack_size": "200ml",
+      "pack_size": "200ml Tetra",
       "units_per_case": 30
     },
     {
@@ -2907,7 +2898,7 @@
       "ptr": 12.86,
       "retailer_margin_rs": 2.14,
       "margin_percent": 14.3,
-      "pack_size": "200ml",
+      "pack_size": "200ml Tetra",
       "units_per_case": 30
     },
     {
@@ -2918,7 +2909,18 @@
       "ptr": 12.86,
       "retailer_margin_rs": 2.14,
       "margin_percent": 14.3,
-      "pack_size": "200ml",
+      "pack_size": "200ml Tetra",
+      "units_per_case": 30
+    },
+    {
+      "product_name": "Amul Tru Chocolate 200ml",
+      "product_group": "Beverages",
+      "product_subgroup": "Flavoured Milk",
+      "mrp": 15.0,
+      "ptr": 12.86,
+      "retailer_margin_rs": 2.14,
+      "margin_percent": 14.3,
+      "pack_size": "200ml Tetra",
       "units_per_case": 30
     },
     {
@@ -2929,7 +2931,7 @@
       "ptr": 13.04,
       "retailer_margin_rs": 1.96,
       "margin_percent": 13.1,
-      "pack_size": "200ml",
+      "pack_size": "200ml Tetra",
       "units_per_case": 30
     },
     {
@@ -2940,8 +2942,30 @@
       "ptr": 17.39,
       "retailer_margin_rs": 2.61,
       "margin_percent": 13.1,
-      "pack_size": "200ml",
+      "pack_size": "200ml Tetra",
       "units_per_case": 30
+    },
+    {
+      "product_name": "Amul Masti Spiced Buttermilk 200ml",
+      "product_group": "Beverages",
+      "product_subgroup": "Fermented Dairy",
+      "mrp": 15.0,
+      "ptr": 13.04,
+      "retailer_margin_rs": 1.96,
+      "margin_percent": 13.1,
+      "pack_size": "200ml Tetra",
+      "units_per_case": 30
+    },
+    {
+      "product_name": "Amul Masti Buttermilk 1L",
+      "product_group": "Beverages",
+      "product_subgroup": "Fermented Dairy",
+      "mrp": 60.0,
+      "ptr": 52.0,
+      "retailer_margin_rs": 8.0,
+      "margin_percent": 13.3,
+      "pack_size": "1L Tetra",
+      "units_per_case": 12
     },
     {
       "product_name": "Amul Kool Kesar 180ml (Can)",
@@ -2988,6 +3012,17 @@
       "units_per_case": 24
     },
     {
+      "product_name": "Amul Kool Strawberry 180ml (Can)",
+      "product_group": "Beverages",
+      "product_subgroup": "Flavoured Milk",
+      "mrp": 30.0,
+      "ptr": 25.5,
+      "retailer_margin_rs": 4.5,
+      "margin_percent": 15.0,
+      "pack_size": "180ml Can",
+      "units_per_case": 24
+    },
+    {
       "product_name": "Amul Kool PET Bottle 200ml",
       "product_group": "Beverages",
       "product_subgroup": "Flavoured Milk",
@@ -2999,17 +3034,6 @@
       "units_per_case": 30
     },
     {
-      "product_name": "Amul Masti Spiced Buttermilk 200ml",
-      "product_group": "Beverages",
-      "product_subgroup": "Fermented Dairy",
-      "mrp": 15.0,
-      "ptr": 13.04,
-      "retailer_margin_rs": 1.96,
-      "margin_percent": 13.1,
-      "pack_size": "200ml",
-      "units_per_case": 30
-    },
-    {
       "product_name": "Amul Milkshake Vanilla 200ml",
       "product_group": "Beverages",
       "product_subgroup": "Milkshakes",
@@ -3017,7 +3041,7 @@
       "ptr": 29.8,
       "retailer_margin_rs": 5.2,
       "margin_percent": 14.9,
-      "pack_size": "200ml",
+      "pack_size": "200ml Tetra",
       "units_per_case": 24
     },
     {
@@ -3028,7 +3052,7 @@
       "ptr": 29.8,
       "retailer_margin_rs": 5.2,
       "margin_percent": 14.9,
-      "pack_size": "200ml",
+      "pack_size": "200ml Tetra",
       "units_per_case": 24
     },
     {
@@ -3072,7 +3096,7 @@
       "ptr": 30.7,
       "retailer_margin_rs": 4.3,
       "margin_percent": 12.3,
-      "pack_size": "50g",
+      "pack_size": "50g Pack",
       "units_per_case": 60
     },
     {
@@ -3083,7 +3107,7 @@
       "ptr": 52.8,
       "retailer_margin_rs": 7.2,
       "margin_percent": 12.0,
-      "pack_size": "100g",
+      "pack_size": "100g Pack",
       "units_per_case": 40
     },
     {
@@ -3094,7 +3118,7 @@
       "ptr": 104.0,
       "retailer_margin_rs": 14.0,
       "margin_percent": 11.9,
-      "pack_size": "200g",
+      "pack_size": "200g Pack",
       "units_per_case": 20
     },
     {
@@ -3105,7 +3129,7 @@
       "ptr": 73.9,
       "retailer_margin_rs": 11.1,
       "margin_percent": 13.1,
-      "pack_size": "100g",
+      "pack_size": "100g Pack",
       "units_per_case": 20
     },
     {
@@ -3116,7 +3140,7 @@
       "ptr": 118.0,
       "retailer_margin_rs": 17.0,
       "margin_percent": 12.6,
-      "pack_size": "200g",
+      "pack_size": "200g Pack",
       "units_per_case": 20
     },
     {
@@ -3127,7 +3151,7 @@
       "ptr": 58.5,
       "retailer_margin_rs": 8.5,
       "margin_percent": 12.7,
-      "pack_size": "200g",
+      "pack_size": "200g Tin",
       "units_per_case": 24
     },
     {
@@ -3138,7 +3162,7 @@
       "ptr": 102.0,
       "retailer_margin_rs": 18.0,
       "margin_percent": 15.0,
-      "pack_size": "150g",
+      "pack_size": "150g Bar",
       "units_per_case": 20
     },
     {
@@ -3149,7 +3173,7 @@
       "ptr": 29.75,
       "retailer_margin_rs": 5.25,
       "margin_percent": 15.0,
-      "pack_size": "35g",
+      "pack_size": "35g Bar",
       "units_per_case": 20
     },
     {
@@ -3160,7 +3184,7 @@
       "ptr": 34.0,
       "retailer_margin_rs": 6.0,
       "margin_percent": 15.0,
-      "pack_size": "35g",
+      "pack_size": "35g Bar",
       "units_per_case": 20
     },
     {
@@ -3171,7 +3195,7 @@
       "ptr": 106.25,
       "retailer_margin_rs": 18.75,
       "margin_percent": 15.0,
-      "pack_size": "100g",
+      "pack_size": "100g Bar",
       "units_per_case": 20
     },
     {
@@ -3182,7 +3206,7 @@
       "ptr": 8.5,
       "retailer_margin_rs": 1.5,
       "margin_percent": 15.0,
-      "pack_size": "Standard",
+      "pack_size": "Display Box (40 pcs)",
       "units_per_case": 40
     },
     {
@@ -3193,8 +3217,19 @@
       "ptr": 34.0,
       "retailer_margin_rs": 6.0,
       "margin_percent": 15.0,
-      "pack_size": "200g",
+      "pack_size": "200g Pouch",
       "units_per_case": 24
+    },
+    {
+      "product_name": "Amul Fresh Mithai & Sweets",
+      "product_group": "Dairy",
+      "product_subgroup": "Traditional Sweets",
+      "mrp": 60.0,
+      "ptr": 51.0,
+      "retailer_margin_rs": 9.0,
+      "margin_percent": 15.0,
+      "pack_size": "Assorted Box",
+      "units_per_case": 12
     },
     {
       "product_name": "Amul Regular Aata 1kg",
@@ -3204,7 +3239,7 @@
       "ptr": 48.0,
       "retailer_margin_rs": 7.0,
       "margin_percent": 12.7,
-      "pack_size": "1kg",
+      "pack_size": "1kg Pouch",
       "units_per_case": 12
     },
     {
@@ -3215,18 +3250,7 @@
       "ptr": 39.0,
       "retailer_margin_rs": 6.0,
       "margin_percent": 13.3,
-      "pack_size": "500g",
-      "units_per_case": 12
-    },
-    {
-      "product_name": "Amul Fresh Mithai & Sweets",
-      "product_group": "Dairy",
-      "product_subgroup": "Traditional Sweets",
-      "mrp": 60.0,
-      "ptr": 51.0,
-      "retailer_margin_rs": 9.0,
-      "margin_percent": 15.0,
-      "pack_size": "Assorted",
+      "pack_size": "500g Pouch",
       "units_per_case": 12
     },
     {
@@ -3237,7 +3261,7 @@
       "ptr": 25.5,
       "retailer_margin_rs": 2.5,
       "margin_percent": 8.9,
-      "pack_size": "500ml",
+      "pack_size": "500ml Pouch",
       "units_per_case": 24
     },
     {
@@ -3248,8 +3272,17 @@
       "ptr": 31.0,
       "retailer_margin_rs": 3.0,
       "margin_percent": 8.8,
-      "pack_size": "500ml",
+      "pack_size": "500ml Pouch",
       "units_per_case": 24
     }
-  ]
+  ],
+  "research_highlights": {
+    "total_surveys": 119,
+    "margin_dissatisfaction_pct": 89.8,
+    "schemes_received_pct": 0.0,
+    "core_stock_availability_pct": 93.8,
+    "hero_sku": "Amul Lassi 200ml",
+    "bottleneck_sku": "Amul Butter 50g (₹35 Small Pack)",
+    "primary_competitor_threat": "Purabi Lassi (₹15-20 Price War) & Non Stop (₹6.50 PTR)"
+  }
 }

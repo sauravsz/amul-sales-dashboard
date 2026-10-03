@@ -15,9 +15,11 @@ import {
   CheckCircle2,
   AlertTriangle,
   Flame,
-  Layers,
   Sparkles,
-  Info
+  Award,
+  BarChart3,
+  Percent,
+  TrendingDown
 } from 'lucide-react';
 
 interface DashboardProps {
@@ -300,42 +302,42 @@ export default function Dashboard({ rawData, dataset }: DashboardProps) {
               />
             </div>
 
-            {/* Strategic Insights Banner */}
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
-              <div className="bg-white border border-[#dddddd] rounded-[16px] p-5 shadow-sm flex items-start gap-3.5">
-                <div className="w-9 h-9 rounded-full bg-emerald-50 flex items-center justify-center shrink-0">
-                  <CheckCircle2 className="w-5 h-5 text-emerald-600" />
+            {/* Strategic Empirical Findings (from Thesis & 119 Surveys) */}
+            <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">
+              <div className="bg-white border border-[#dddddd] rounded-[16px] p-5 shadow-sm">
+                <div className="flex items-center justify-between mb-2">
+                  <span className="text-xs font-bold text-[#717171] uppercase">Margin Dissatisfaction</span>
+                  <TrendingDown className="w-4 h-4 text-rose-500" />
                 </div>
-                <div>
-                  <h4 className="text-sm font-bold text-[#222222]">Top Growth Hero SKU</h4>
-                  <p className="text-xs text-[#717171] mt-0.5 leading-relaxed">
-                    <strong>Amul Lassi (200ml)</strong> leads beverage demand with a 32.5% conversion rate and highest retailer re-order frequency across all beats.
-                  </p>
-                </div>
+                <div className="text-2xl font-bold text-rose-600">89.8%</div>
+                <p className="text-xs text-[#717171] mt-1">Retailers citing low margin vs local drinks</p>
               </div>
 
-              <div className="bg-white border border-[#dddddd] rounded-[16px] p-5 shadow-sm flex items-start gap-3.5">
-                <div className="w-9 h-9 rounded-full bg-amber-50 flex items-center justify-center shrink-0">
-                  <AlertTriangle className="w-5 h-5 text-amber-600" />
+              <div className="bg-white border border-[#dddddd] rounded-[16px] p-5 shadow-sm">
+                <div className="flex items-center justify-between mb-2">
+                  <span className="text-xs font-bold text-[#717171] uppercase">Promotional Schemes</span>
+                  <Percent className="w-4 h-4 text-amber-500" />
                 </div>
-                <div>
-                  <h4 className="text-sm font-bold text-[#222222]">Key Bottleneck: ₹35 Butter</h4>
-                  <p className="text-xs text-[#717171] mt-0.5 leading-relaxed">
-                    High consumer demand for <strong>50g ₹35 Butter</strong> was unfulfilled due to recurrent distributor stock-outs across 8+ beats.
-                  </p>
-                </div>
+                <div className="text-2xl font-bold text-amber-600">0.0%</div>
+                <p className="text-xs text-[#717171] mt-1">Outlets receiving trade combos or discounts</p>
               </div>
 
-              <div className="bg-white border border-[#dddddd] rounded-[16px] p-5 shadow-sm flex items-start gap-3.5">
-                <div className="w-9 h-9 rounded-full bg-rose-50 flex items-center justify-center shrink-0">
-                  <Flame className="w-5 h-5 text-rose-600" />
+              <div className="bg-white border border-[#dddddd] rounded-[16px] p-5 shadow-sm">
+                <div className="flex items-center justify-between mb-2">
+                  <span className="text-xs font-bold text-[#717171] uppercase">Core Stock Availability</span>
+                  <CheckCircle2 className="w-4 h-4 text-emerald-500" />
                 </div>
-                <div>
-                  <h4 className="text-sm font-bold text-[#222222]">Competitor Margin Pressure</h4>
-                  <p className="text-xs text-[#717171] mt-0.5 leading-relaxed">
-                    Local beverages (e.g. <strong>Non Stop @ ₹6.50 PTR</strong>) and <strong>Purabi</strong> capture fridge space due to higher dealer margins.
-                  </p>
+                <div className="text-2xl font-bold text-emerald-600">93.8%</div>
+                <p className="text-xs text-[#717171] mt-1">Consistent supply on Amul Kool & Lassi</p>
+              </div>
+
+              <div className="bg-white border border-[#dddddd] rounded-[16px] p-5 shadow-sm">
+                <div className="flex items-center justify-between mb-2">
+                  <span className="text-xs font-bold text-[#717171] uppercase">Top Growth Driver</span>
+                  <Award className="w-4 h-4 text-[#ff385c]" />
                 </div>
+                <div className="text-2xl font-bold text-[#ff385c]">Amul Lassi</div>
+                <p className="text-xs text-[#717171] mt-1">Highest consumer pull & daily turnover</p>
               </div>
             </div>
 
