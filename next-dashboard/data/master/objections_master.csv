@@ -1,0 +1,12 @@
+objection_category,description
+No demand,Retailer says there is no customer demand for the product
+Low margin,Retailer finds the margin insufficient compared to alternatives
+Already have competitor,Retailer already stocks a competing brand in the same category
+No shelf space,Retailer has no available shelf or display space
+Slow moving,Retailer perceives the product as slow moving based on past experience
+High price,Retailer or customers find the price too high
+No customer asking,Retailer says no customers have asked for this product
+Stock not available,Product is currently out of stock at distributor level
+Not relevant for outlet,Product does not match the outlet type or customer profile
+Retailer unconvinced,Retailer is not convinced about the product quality or brand value
+Cash or credit issue,Retailer has payment or credit concerns

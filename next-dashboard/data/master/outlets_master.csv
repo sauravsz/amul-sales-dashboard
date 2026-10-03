@@ -1,0 +1,26 @@
+outlet_id,outlet_name,outlet_type,outlet_size,locality_type,high_footfall,cold_storage_available,estimated_category_potential,active_outlet
+OUT001,Sharma General Store,Kirana,Small,Residential,No,No,Low,Yes
+OUT002,Patel Dairy & Sweets,Dairy Shop,Medium,Market,Yes,Yes,Medium,Yes
+OUT003,Raj Supermart,Supermarket,Large,Market,Yes,Yes,High,Yes
+OUT004,Gupta Provision Store,Kirana,Medium,Residential,No,No,Medium,Yes
+OUT005,Fresh Daily Mart,General Store,Medium,Mixed,Yes,No,Medium,Yes
+OUT006,City Bakery & Confectionery,Bakery,Small,Market,Yes,No,Medium,Yes
+OUT007,Annapurna Grocers,Kirana,Large,Residential,No,No,Medium,Yes
+OUT008,Metro Fresh Supermarket,Supermarket,Large,Market,Yes,Yes,High,Yes
+OUT009,Lakshmi Dairy Booth,Dairy Shop,Small,Residential,No,Yes,Low,Yes
+OUT010,Balaji General Store,General Store,Small,Mixed,No,No,Low,Yes
+OUT011,Singh Departmental Store,Departmental Store,Large,Market,Yes,Yes,High,Yes
+OUT012,Mahavir Kirana,Kirana,Small,Residential,No,No,Low,Yes
+OUT013,Royal Bakers,Bakery,Medium,Market,Yes,No,Medium,Yes
+OUT014,Sai Provision & General,Kirana,Medium,Mixed,No,No,Medium,Yes
+OUT015,Green Valley Organics,Supermarket,Medium,Market,Yes,Yes,High,Yes
+OUT016,Mahalaxmi Dairy,Dairy Shop,Medium,Residential,Yes,Yes,Medium,Yes
+OUT017,Jai Bhavani Store,Kirana,Small,Residential,No,No,Low,Yes
+OUT018,Big Basket Express,Supermarket,Large,Market,Yes,Yes,High,Yes
+OUT019,Nandini General Store,General Store,Medium,Mixed,Yes,No,Medium,Yes
+OUT020,Quick Stop Convenience,General Store,Small,Market,Yes,No,Low,Yes
+OUT021,Ganesh Wholesalers,Wholesaler,Large,Market,No,Yes,High,Yes
+OUT022,Shree Ram Kirana,Kirana,Medium,Residential,No,No,Medium,Yes
+OUT023,Taste & Treat Bakery,Bakery,Small,Market,Yes,No,Medium,Yes
+OUT024,Apna Bazaar,Departmental Store,Medium,Mixed,Yes,Yes,Medium,Yes
+OUT025,Kisaan Organics Hub,Supermarket,Medium,Market,Yes,Yes,High,Yes
