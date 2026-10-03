@@ -377,8 +377,8 @@ export default function Dashboard({ rawData, dataset }: DashboardProps) {
                     <div key={idx} className="p-3 rounded-xl border border-[#ebebeb] bg-[#fafafa] hover:bg-white hover:border-[#dddddd] transition-all">
                       <div className="flex items-center justify-between mb-1">
                         <div className="flex items-center gap-1.5 min-w-0">
-                          <span className="font-bold text-[#222222] text-xs sm:text-sm truncate">Day {d.day_no} · {d.beat}</span>
-                          <span className="text-[11px] text-[#717171] shrink-0">({d.date.slice(5)})</span>
+                          <span className="font-bold text-[#222222] text-xs sm:text-sm truncate">{d.beat} Route</span>
+                          <span className="text-[11px] text-[#717171] shrink-0">({d.date})</span>
                         </div>
                         <span className="text-[10px] sm:text-xs font-bold px-2 py-0.5 rounded-full bg-[#ff385c]/10 text-[#ff385c] shrink-0">
                           {d.converted}/{d.visited} ({d.conversion_rate}%)
@@ -441,7 +441,7 @@ export default function Dashboard({ rawData, dataset }: DashboardProps) {
                   <tr className="bg-[#f7f7f7] text-[#717171] text-[11px] uppercase font-bold border-b border-[#dddddd]">
                     <th className="py-3 px-4">Beat Name</th>
                     <th className="py-3 px-4">Distributor</th>
-                    <th className="py-3 px-4 text-right">Days</th>
+                    <th className="py-3 px-4 text-right">Route Runs</th>
                     <th className="py-3 px-4 text-right">Visits</th>
                     <th className="py-3 px-4 text-right">Orders</th>
                     <th className="py-3 px-4 text-right">Strike Rate</th>

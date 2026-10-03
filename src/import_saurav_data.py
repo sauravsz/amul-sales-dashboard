@@ -210,10 +210,17 @@ VERIFIED_STORE_INVOICES = {
 }
 
 def clean_observation_text(raw_obs):
-    text = re.sub(r'\[\d{2}/\d{2}/\d{2,4},\s*\d{1,2}:\d{2}(?::\d{2})?\s*[APMapm]{2}\]\s*~?[^:\n]+:\s*', '', raw_obs)
+    text = raw_obs
+    text = re.sub(r'\[\d{2}/\d{2}/\d{2,4},\s*\d{1,2}:\d{2}(?::\d{2})?\s*[APMapm]{2}\]\s*~?[^:\n]+:\s*', '', text)
+    text = re.sub(r'###\s*Day\s*No\.?\s*\d+', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'^\s*\(\d{1,2}\s+[A-Za-z]+\s+\d{4}\)', '', text, flags=re.MULTILINE)
+    text = re.sub(r'^\s*\d{1,2}[-/]\d{1,2}[-/]\d{2,4}(?:\s*-\s*[A-Za-z]+)?', '', text, flags=re.MULTILINE)
+    text = re.sub(r'^(?:Distributor|Beat|Intern|Salesman)\s*Name\s*[:\-\u2013\u2014].*', '', text, flags=re.MULTILINE | re.IGNORECASE)
+    text = re.sub(r'^No\.\s*of\s*outlets.*', '', text, flags=re.MULTILINE | re.IGNORECASE)
+    text = re.sub(r'^(?:Total\s*beverages\s*sold|Total\s*Value|Value\s*=|Total\s*=|---).*', '', text, flags=re.MULTILINE | re.IGNORECASE)
     text = re.sub(r'^(?:Sir|Sir,\s*|N\.B\.\s*|Observations:?\s*|Date\s*:\s*[^\n]+\n)', '', text, flags=re.MULTILINE)
     text = re.sub(r'\n{3,}', '\n\n', text).strip()
-    return text if text else "Routine market beat visit completed. Product stock availability checked, retailer pitches delivered, and orders recorded."
+    return text if text else "Market beat route visited. Retailer feedback, product stock levels, and order booking recorded."
 
 def export_products_master():
     csv_file = os.path.join(MASTER_DATA_DIR, "products_master.csv")
