@@ -229,7 +229,7 @@ export default function Dashboard({ rawData, dataset }: DashboardProps) {
           {/* Hero Banner Section */}
           <div className="pt-8 sm:pt-12 pb-10 sm:pb-14 px-4 sm:px-8 text-center max-w-4xl mx-auto">
             <div className="inline-flex items-center gap-1.5 sm:gap-2 px-3 py-1 sm:px-3.5 sm:py-1.5 rounded-full bg-[#ff385c]/10 text-[#ff385c] text-[11px] sm:text-xs font-bold tracking-wide uppercase mb-3 border border-[#ff385c]/20 shadow-xs">
-              <Sparkles className="w-3.5 h-3.5 shrink-0" /> Silchar Field Study · 34 Days · Saurav Sinha
+              <Sparkles className="w-3.5 h-3.5 shrink-0" /> Silchar Field Study · Summer Internship · Saurav Sinha
             </div>
             <h1 className="text-[#222222] text-[26px] sm:text-[36px] md:text-[48px] font-bold tracking-tight leading-tight mb-2.5">
               Amul Field Sales & Route Intelligence
@@ -369,7 +369,7 @@ export default function Dashboard({ rawData, dataset }: DashboardProps) {
                     <p className="text-[11px] sm:text-xs text-[#717171] mt-0.5">Chronological field notes from Saurav Sinha across Silchar routes</p>
                   </div>
                   <span className="text-[11px] sm:text-xs font-semibold text-[#717171] bg-[#f7f7f7] px-2.5 py-1 rounded-full border border-[#dddddd] shrink-0">
-                    34 Days
+                    Market Logs
                   </span>
                 </div>
                 <div className="space-y-2.5 max-h-[300px] overflow-y-auto pr-1 custom-scrollbar">

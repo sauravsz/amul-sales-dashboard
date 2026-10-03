@@ -56,8 +56,8 @@ export default function TopNav({ currentTab, onTabChange }: TopNavProps) {
         {/* User / Market Badge */}
         <div className="flex items-center space-x-2.5">
           <div className="flex flex-col text-right">
-            <span className="text-xs font-bold text-[#222222]">34 Days</span>
-            <span className="text-[10px] text-[#717171]">Silchar</span>
+            <span className="text-xs font-bold text-[#222222]">Silchar</span>
+            <span className="text-[10px] text-[#717171]">Urban Beats</span>
           </div>
           <div className="w-8 h-8 rounded-full bg-[#ff385c]/10 border border-[#ff385c]/20 flex items-center justify-center text-[#ff385c] font-bold text-xs shadow-xs">
             SS

@@ -21,7 +21,7 @@ export function DailyTrendChart({ data }: DailyTrendChartProps) {
     <div className="bg-white border border-[#dddddd] rounded-[16px] p-4 sm:p-6 shadow-xs h-[340px] sm:h-[420px] flex flex-col justify-between">
       <div className="mb-2">
         <h3 className="text-[15px] sm:text-[17px] font-bold text-[#222222]">Daily Outlets Visited vs Orders Converted</h3>
-        <p className="text-[11px] sm:text-xs text-[#717171] mt-0.5">Track field conversion velocity across 34 market days</p>
+        <p className="text-[11px] sm:text-xs text-[#717171] mt-0.5">Track field conversion velocity across market visit dates</p>
       </div>
       <div className="flex-1 w-full min-h-[220px] sm:min-h-[300px]">
         <ResponsiveContainer width="100%" height="100%">

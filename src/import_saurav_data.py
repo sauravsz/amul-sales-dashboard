@@ -2,7 +2,7 @@
 ETL Pipeline V3 (Master High-Precision Edition)
 ================================================
 Comprehensive ingestion, cross-validation, and normalization of Saurav Sinha's
-entire 34-day Amul Field Internship dataset across:
+authentic Amul Field Internship dataset across:
 1. Daily Observation Logs & Individual Sale Files (Silchar Urban Beats)
 2. Verified Official Training Diary (45 Days Calendar)
 3. Cleaned Retailer Questionnaire Surveys (119 Outlets)
@@ -89,7 +89,7 @@ CANONICAL_PRODUCTS = {
     "Amul Gold 500ml": {"group": "Fresh Dairy", "subgroup": "Liquid Milk", "mrp": 34.0, "ptr": 31.00, "margin_percent": 8.8, "pack": "500ml Pouch", "case": 24},
 }
 
-# Verified 34-Day Master Schedule with Exact Calendar, Distributor, WDSM, and Beat
+# Verified Market Master Schedule with Exact Calendar, Distributor, WDSM, and Beat
 SCHEDULE_MASTER = [
     # Phase 1: Observation & Retailer Mapping
     {"day": 1, "date": "2026-05-25", "beat": "Malugram 4", "distributor": "Sengupta Agencies", "salesman": "Amarjeet Deb Purkayastha", "visited": 18, "converted": 17, "phase": "Observation"},

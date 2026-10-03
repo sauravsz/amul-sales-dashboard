@@ -6,7 +6,7 @@
 [![Tailwind CSS 4](https://img.shields.io/badge/Tailwind_CSS-v4.0-38bdf8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-An interactive, high-fidelity field sales intelligence dashboard designed with an **Airbnb-inspired design system**. Built to analyze authentic field sales logs, distributor route productivity, competitive margin structures, and retailer sentiment from an intensive **34-day market study** conducted for **Gujarat Cooperative Milk Marketing Federation Ltd. (Amul)** across **Silchar, Assam**.
+An interactive, high-fidelity field sales intelligence dashboard designed with an **Airbnb-inspired design system**. Built to analyze authentic field sales logs, distributor route productivity, competitive margin structures, and retailer sentiment from an intensive **field market study** conducted for **Gujarat Cooperative Milk Marketing Federation Ltd. (Amul)** across **Silchar, Assam**.
 
 ---
 
@@ -58,7 +58,7 @@ Full 1-thumb touch navigation with a persistent bottom tab bar, swipeable filter
 
 ## 📊 Empirical Field Findings
 
-Based on 34 market days and 119 direct retailer interviews across Silchar urban beats:
+Based on comprehensive field visit logs and 119 direct retailer interviews across Silchar urban beats:
 
 | Metric / Dimension | Value | Strategic Implication |
 |---|---|---|
