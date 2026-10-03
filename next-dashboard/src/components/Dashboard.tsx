@@ -3,7 +3,8 @@ import React, { useState, useMemo } from 'react';
 import TopNav from './TopNav';
 import FilterPill from './FilterPill';
 import KpiCard from './KpiCard';
-import { DailyTrendChart, ConversionBarChart, GenericBarMetricChart } from './Charts';
+import { DailyTrendChart, ConversionBarChart } from './Charts';
+import ObjectionVisualizer from './ObjectionVisualizer';
 import type { SalesRecord, SauravDataset, DailyTrendItem, ConversionItem, BeatMetricItem } from '@/types/sales';
 import { 
   ShoppingBag, 
@@ -352,14 +353,13 @@ export default function Dashboard({ rawData, dataset }: DashboardProps) {
               />
             </div>
 
-            {/* Objections & Key Observations */}
+            {/* Objections Visualizer & Key Observations */}
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-12">
               <div className="lg:col-span-1">
-                <GenericBarMetricChart 
+                <ObjectionVisualizer 
                   data={metrics.objectionData} 
                   title="Top Retailer Objections Encountered" 
                   subtitle="Primary reasons for non-conversion during field visits"
-                  unit=" pitches"
                 />
               </div>
 
