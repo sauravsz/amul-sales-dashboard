@@ -47,6 +47,15 @@ Comprehensive commercial master displaying MRP, Price to Retailer (PTR), Retaile
 
 ---
 
+### 5. Mobile Responsive Experience (Bottom Navigation & Compact Views)
+Full 1-thumb touch navigation with a persistent bottom tab bar, swipeable filters, and optimized chart scaling on mobile viewports ($375\text{px}-430\text{px}$).
+
+<p align="center">
+  <img src="docs/images/mobile-dashboard.png" width="360" alt="Mobile Dashboard View" />
+</p>
+
+---
+
 ## 📊 Empirical Field Findings
 
 Based on 34 market days and 119 direct retailer interviews across Silchar urban beats:
