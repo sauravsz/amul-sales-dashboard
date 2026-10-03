@@ -362,31 +362,37 @@ export default function Dashboard({ rawData, dataset }: DashboardProps) {
                 />
               </div>
 
-              <div className="lg:col-span-2 bg-white border border-[#dddddd] rounded-[16px] p-4 sm:p-6 shadow-xs flex flex-col justify-between">
-                <div className="flex items-center justify-between mb-3 sm:mb-4">
+              <div className="lg:col-span-2 bg-white border border-[#dddddd] rounded-[16px] p-4 sm:p-6 shadow-xs flex flex-col h-full">
+                <div className="flex items-start justify-between gap-3 mb-3 pb-3 border-b border-[#ebebeb]">
                   <div>
-                    <h3 className="text-[15px] sm:text-[17px] font-bold text-[#222222]">Verified Daily Market Visit Notes</h3>
-                    <p className="text-[11px] sm:text-xs text-[#717171] mt-0.5">Chronological field notes from Saurav Sinha across Silchar routes</p>
+                    <h3 className="text-[16px] sm:text-[17px] font-bold text-[#222222] tracking-tight">Verified Market Visit Notes</h3>
+                    <p className="text-[11px] sm:text-xs text-[#717171] mt-0.5">Chronological qualitative field notes from Saurav Sinha across Silchar routes</p>
                   </div>
                   <span className="text-[11px] sm:text-xs font-semibold text-[#717171] bg-[#f7f7f7] px-2.5 py-1 rounded-full border border-[#dddddd] shrink-0">
                     Market Logs
                   </span>
                 </div>
-                <div className="space-y-2.5 max-h-[300px] overflow-y-auto pr-1 custom-scrollbar">
-                  {(dataset?.daily_reports || []).slice(-8).reverse().map((d, idx) => (
-                    <div key={idx} className="p-3 rounded-xl border border-[#ebebeb] bg-[#fafafa] hover:bg-white hover:border-[#dddddd] transition-all">
-                      <div className="flex items-center justify-between mb-1">
-                        <div className="flex items-center gap-1.5 min-w-0">
+                <div className="flex-1 min-h-[320px] max-h-[460px] overflow-y-auto pr-1.5 custom-scrollbar space-y-3">
+                  {(dataset?.daily_reports || []).slice().reverse().map((d, idx) => (
+                    <div key={idx} className="p-3.5 rounded-xl border border-[#ebebeb] bg-[#fafafa] hover:bg-white hover:border-[#dddddd] transition-all">
+                      <div className="flex items-center justify-between gap-2 mb-1.5">
+                        <div className="flex items-center gap-2 min-w-0">
                           <span className="font-bold text-[#222222] text-xs sm:text-sm truncate">{d.beat} Route</span>
                           <span className="text-[11px] text-[#717171] shrink-0">({d.date})</span>
                         </div>
-                        <span className="text-[10px] sm:text-xs font-bold px-2 py-0.5 rounded-full bg-[#ff385c]/10 text-[#ff385c] shrink-0">
-                          {d.converted}/{d.visited} ({d.conversion_rate}%)
+                        <span className="text-[10px] sm:text-xs font-bold px-2.5 py-0.5 rounded-full bg-[#ff385c]/10 text-[#ff385c] shrink-0">
+                          {d.converted}/{d.visited} Orders ({d.conversion_rate}%)
                         </span>
                       </div>
-                      <p className="text-[11px] sm:text-xs text-[#555555] leading-relaxed line-clamp-2">
+                      <p className="text-xs text-[#444444] leading-relaxed mb-2">
                         {d.observations}
                       </p>
+                      <div className="flex items-center justify-between text-[11px] text-[#717171] pt-2 border-t border-[#ebebeb]/60">
+                        <span>Distributor: <strong className="text-[#222222]">{d.distributor}</strong> ({d.salesman})</span>
+                        {d.total_value > 0 && (
+                          <span className="font-semibold text-emerald-700">₹{d.total_value.toLocaleString('en-IN', { maximumFractionDigits: 0 })} booked</span>
+                        )}
+                      </div>
                     </div>
                   ))}
                 </div>

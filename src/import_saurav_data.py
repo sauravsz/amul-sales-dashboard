@@ -16,6 +16,7 @@ import json
 import csv
 from datetime import datetime
 import openpyxl
+from route_observations import ROUTE_OBSERVATIONS
 
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 RAW_DATA_DIR = os.path.join(BASE_DIR, "data", "raw")
@@ -259,7 +260,8 @@ def generate_full_field_sales_log():
         obs_body = day_splits[i+1].strip()
         obs_match = re.search(r'Observations\s*\n([\s\S]+)', obs_body, re.IGNORECASE)
         raw_o = obs_match.group(1).strip() if obs_match else obs_body
-        obs_by_day[d_num] = clean_observation_text(raw_o)
+        cleaned_o = clean_observation_text(raw_o)
+        obs_by_day[d_num] = ROUTE_OBSERVATIONS.get(d_num, cleaned_o)
 
     # Focus pitched SKU rotation catalog
     focus_pitch_catalog = [
